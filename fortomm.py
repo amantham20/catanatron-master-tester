@@ -29,10 +29,10 @@ class FooPlayer(Player):
 
   def __init__(self, color):
         super().__init__(color)
-        self.WEIGHTS_BY_ACTION_TYPE = {ActionType.BUILD_CITY: 8730, 
-        ActionType.BUILD_SETTLEMENT: 1661, 
-        ActionType.BUY_DEVELOPMENT_CARD: 399, 
-        ActionType.BUILD_ROAD: 6853}
+        self.WEIGHTS_BY_ACTION_TYPE = {ActionType.BUILD_CITY: 8826, 
+        ActionType.BUILD_SETTLEMENT: 1347, 
+        ActionType.BUY_DEVELOPMENT_CARD: 91, 
+        ActionType.BUILD_ROAD: 8016}
         print(self.WEIGHTS_BY_ACTION_TYPE)
 
   def decide(self, game, playable_actions):

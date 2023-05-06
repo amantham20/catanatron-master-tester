@@ -28,7 +28,7 @@ ADDITIONALGAMES = 150
 
 
 def PrintTheOrder(items: dict):
-    """Prints out the players in order of their score
+    """Prints out the playe\rs in order of their score
 
     :param items: Players and their scores
     """

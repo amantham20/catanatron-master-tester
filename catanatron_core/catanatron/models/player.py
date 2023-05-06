@@ -29,6 +29,9 @@ class Player:
         self.color = color
         self.is_bot = is_bot
         self.analysis = None
+        
+        
+        # Here is a test
 
     def decide(self, game, playable_actions):
         """Should return one of the playable_actions or

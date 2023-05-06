@@ -1,0 +1,741 @@
+2023-04-23 21:13:55,564 DEBUG Generation 0, tournament 0: {<Color.ORANGE: 'ORANGE'>: 20, <Color.RED: 'RED'>: 36, <Color.BLUE: 'BLUE'>: 14, <Color.WHITE: 'WHITE'>: 30}
+2023-04-23 21:13:55,567 DEBUG New Best Player: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 4010, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 6450, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 1559, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 4675}, score: 20
+2023-04-23 21:13:55,567 DEBUG New Best Player: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 5199, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 8002, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 7327, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 4386}, score: 30
+2023-04-23 21:13:58,819 INFO   (0) Color.RED : 52
+2023-04-23 21:13:58,819 INFO   (1) Color.ORANGE : 48
+2023-04-23 21:14:01,290 INFO   (0) Color.RED : 50
+2023-04-23 21:14:01,291 INFO   (1) Color.BLUE : 49
+2023-04-23 21:14:01,291 INFO   (2) None : 1
+2023-04-23 21:14:04,315 INFO   (0) Color.RED : 53
+2023-04-23 21:14:04,315 INFO   (1) Color.WHITE : 47
+2023-04-23 21:14:08,795 DEBUG Generation 1, tournament 0: {<Color.RED: 'RED'>: 27, <Color.ORANGE: 'ORANGE'>: 26, <Color.BLUE: 'BLUE'>: 26, <Color.WHITE: 'WHITE'>: 21}
+2023-04-23 21:14:13,313 DEBUG Generation 2, tournament 0: {<Color.RED: 'RED'>: 26, <Color.BLUE: 'BLUE'>: 20, <Color.ORANGE: 'ORANGE'>: 33, <Color.WHITE: 'WHITE'>: 21}
+2023-04-23 21:14:13,313 DEBUG New Best Player: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 4677, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 6615, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 1559, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 4675}, score: 33
+2023-04-23 21:14:18,093 DEBUG Generation 3, tournament 0: {<Color.BLUE: 'BLUE'>: 21, <Color.ORANGE: 'ORANGE'>: 22, <Color.WHITE: 'WHITE'>: 26, <Color.RED: 'RED'>: 31}
+2023-04-23 21:14:22,491 DEBUG Generation 4, tournament 0: {<Color.BLUE: 'BLUE'>: 20, <Color.WHITE: 'WHITE'>: 28, <Color.RED: 'RED'>: 32, <Color.ORANGE: 'ORANGE'>: 19}
+2023-04-23 21:14:26,801 DEBUG Generation 5, tournament 0: {<Color.ORANGE: 'ORANGE'>: 22, <Color.WHITE: 'WHITE'>: 25, <Color.RED: 'RED'>: 23, <Color.BLUE: 'BLUE'>: 30}
+2023-04-23 21:14:31,261 DEBUG Generation 6, tournament 0: {<Color.RED: 'RED'>: 21, <Color.WHITE: 'WHITE'>: 26, <Color.BLUE: 'BLUE'>: 31, <Color.ORANGE: 'ORANGE'>: 22}
+2023-04-23 21:14:35,458 DEBUG Generation 7, tournament 0: {<Color.BLUE: 'BLUE'>: 20, <Color.WHITE: 'WHITE'>: 30, <Color.ORANGE: 'ORANGE'>: 26, <Color.RED: 'RED'>: 24}
+2023-04-23 21:14:40,153 DEBUG Generation 8, tournament 0: {<Color.WHITE: 'WHITE'>: 21, <Color.ORANGE: 'ORANGE'>: 27, <Color.BLUE: 'BLUE'>: 22, <Color.RED: 'RED'>: 30}
+2023-04-23 21:14:44,705 DEBUG Generation 9, tournament 0: {<Color.BLUE: 'BLUE'>: 20, <Color.ORANGE: 'ORANGE'>: 27, <Color.RED: 'RED'>: 27, <Color.WHITE: 'WHITE'>: 26}
+2023-04-23 21:14:49,059 DEBUG Generation 10, tournament 0: {<Color.BLUE: 'BLUE'>: 24, <Color.WHITE: 'WHITE'>: 20, <Color.RED: 'RED'>: 36, <Color.ORANGE: 'ORANGE'>: 20}
+2023-04-23 21:14:51,763 INFO   (0) Color.RED : 57
+2023-04-23 21:14:51,764 INFO   (1) Color.BLUE : 41
+2023-04-23 21:14:51,764 INFO   (2) None : 1
+2023-04-23 21:14:55,057 INFO   (0) Color.RED : 57
+2023-04-23 21:14:55,057 INFO   (1) Color.WHITE : 42
+2023-04-23 21:14:57,898 INFO   (0) Color.RED : 51
+2023-04-23 21:14:57,898 INFO   (1) Color.ORANGE : 49
+2023-04-23 21:15:02,067 DEBUG Generation 11, tournament 0: {<Color.ORANGE: 'ORANGE'>: 22, <Color.RED: 'RED'>: 28, <Color.BLUE: 'BLUE'>: 26, <Color.WHITE: 'WHITE'>: 24}
+2023-04-23 21:15:06,143 DEBUG Generation 12, tournament 0: {<Color.RED: 'RED'>: 41, <Color.BLUE: 'BLUE'>: 21, <Color.ORANGE: 'ORANGE'>: 21, <Color.WHITE: 'WHITE'>: 17}
+2023-04-23 21:15:10,551 DEBUG Generation 13, tournament 0: {<Color.BLUE: 'BLUE'>: 19, <Color.RED: 'RED'>: 33, <Color.WHITE: 'WHITE'>: 20, <Color.ORANGE: 'ORANGE'>: 28}
+2023-04-23 21:15:14,964 DEBUG Generation 14, tournament 0: {<Color.ORANGE: 'ORANGE'>: 25, <Color.RED: 'RED'>: 32, <Color.WHITE: 'WHITE'>: 21, <Color.BLUE: 'BLUE'>: 22}
+2023-04-23 21:15:19,501 DEBUG Generation 15, tournament 0: {<Color.WHITE: 'WHITE'>: 16, <Color.ORANGE: 'ORANGE'>: 25, <Color.RED: 'RED'>: 37, <Color.BLUE: 'BLUE'>: 22}
+2023-04-23 21:15:23,812 DEBUG Generation 16, tournament 0: {<Color.RED: 'RED'>: 32, <Color.WHITE: 'WHITE'>: 23, <Color.ORANGE: 'ORANGE'>: 25, <Color.BLUE: 'BLUE'>: 20}
+2023-04-23 21:15:28,216 DEBUG Generation 17, tournament 0: {<Color.WHITE: 'WHITE'>: 21, <Color.ORANGE: 'ORANGE'>: 17, <Color.BLUE: 'BLUE'>: 32, <Color.RED: 'RED'>: 30}
+2023-04-23 21:15:32,625 DEBUG Generation 18, tournament 0: {<Color.WHITE: 'WHITE'>: 18, <Color.BLUE: 'BLUE'>: 20, <Color.RED: 'RED'>: 36, <Color.ORANGE: 'ORANGE'>: 26}
+2023-04-23 21:15:36,734 DEBUG Generation 19, tournament 0: {<Color.WHITE: 'WHITE'>: 18, <Color.ORANGE: 'ORANGE'>: 24, <Color.BLUE: 'BLUE'>: 21, <Color.RED: 'RED'>: 37}
+2023-04-23 21:15:41,033 DEBUG Generation 20, tournament 0: {<Color.RED: 'RED'>: 33, <Color.ORANGE: 'ORANGE'>: 24, <Color.WHITE: 'WHITE'>: 28, <Color.BLUE: 'BLUE'>: 15}
+2023-04-23 21:15:43,880 INFO   (0) Color.RED : 60
+2023-04-23 21:15:43,881 INFO   (1) Color.ORANGE : 40
+2023-04-23 21:15:46,774 INFO   (0) Color.RED : 54
+2023-04-23 21:15:46,774 INFO   (1) Color.WHITE : 45
+2023-04-23 21:15:46,774 INFO   (2) None : 1
+2023-04-23 21:15:49,670 INFO   (0) Color.BLUE : 51
+2023-04-23 21:15:49,670 INFO   (1) Color.RED : 49
+2023-04-23 21:15:54,137 DEBUG Generation 21, tournament 0: {<Color.ORANGE: 'ORANGE'>: 16, <Color.RED: 'RED'>: 35, <Color.WHITE: 'WHITE'>: 21, <Color.BLUE: 'BLUE'>: 28}
+2023-04-23 21:15:58,350 DEBUG Generation 22, tournament 0: {<Color.RED: 'RED'>: 39, <Color.ORANGE: 'ORANGE'>: 15, <Color.WHITE: 'WHITE'>: 22, <Color.BLUE: 'BLUE'>: 24}
+2023-04-23 21:16:02,596 DEBUG Generation 23, tournament 0: {<Color.BLUE: 'BLUE'>: 24, <Color.WHITE: 'WHITE'>: 24, <Color.RED: 'RED'>: 30, <Color.ORANGE: 'ORANGE'>: 22}
+2023-04-23 21:16:06,527 DEBUG Generation 24, tournament 0: {<Color.RED: 'RED'>: 34, <Color.BLUE: 'BLUE'>: 21, <Color.WHITE: 'WHITE'>: 26, <Color.ORANGE: 'ORANGE'>: 19}
+2023-04-23 21:16:10,846 DEBUG Generation 25, tournament 0: {<Color.WHITE: 'WHITE'>: 19, <Color.RED: 'RED'>: 27, <Color.ORANGE: 'ORANGE'>: 25, <Color.BLUE: 'BLUE'>: 28}
+2023-04-23 21:16:14,855 DEBUG Generation 26, tournament 0: {<Color.WHITE: 'WHITE'>: 22, <Color.RED: 'RED'>: 30, <Color.ORANGE: 'ORANGE'>: 23, <Color.BLUE: 'BLUE'>: 25}
+2023-04-23 21:16:19,193 DEBUG Generation 27, tournament 0: {<Color.WHITE: 'WHITE'>: 23, <Color.ORANGE: 'ORANGE'>: 30, <Color.RED: 'RED'>: 21, <Color.BLUE: 'BLUE'>: 26}
+2023-04-23 21:16:23,327 DEBUG Generation 28, tournament 0: {<Color.BLUE: 'BLUE'>: 24, <Color.RED: 'RED'>: 30, <Color.WHITE: 'WHITE'>: 23, <Color.ORANGE: 'ORANGE'>: 23}
+2023-04-23 21:16:27,495 DEBUG Generation 29, tournament 0: {<Color.RED: 'RED'>: 33, <Color.BLUE: 'BLUE'>: 30, <Color.ORANGE: 'ORANGE'>: 12, <Color.WHITE: 'WHITE'>: 25}
+2023-04-23 21:16:31,769 DEBUG Generation 30, tournament 0: {<Color.RED: 'RED'>: 34, <Color.ORANGE: 'ORANGE'>: 25, <Color.BLUE: 'BLUE'>: 24, <Color.WHITE: 'WHITE'>: 17}
+2023-04-23 21:16:34,453 INFO   (0) Color.RED : 52
+2023-04-23 21:16:34,454 INFO   (1) Color.ORANGE : 47
+2023-04-23 21:16:34,454 INFO   (2) None : 1
+2023-04-23 21:16:37,327 INFO   (0) Color.RED : 57
+2023-04-23 21:16:37,327 INFO   (1) Color.BLUE : 41
+2023-04-23 21:16:37,328 INFO   (2) None : 1
+2023-04-23 21:16:40,230 INFO   (0) Color.RED : 57
+2023-04-23 21:16:40,230 INFO   (1) Color.WHITE : 41
+2023-04-23 21:16:40,230 INFO   (2) None : 1
+2023-04-23 21:16:44,413 DEBUG Generation 31, tournament 0: {<Color.RED: 'RED'>: 37, <Color.WHITE: 'WHITE'>: 17, <Color.BLUE: 'BLUE'>: 28, <Color.ORANGE: 'ORANGE'>: 17}
+2023-04-23 21:16:48,572 DEBUG Generation 32, tournament 0: {<Color.BLUE: 'BLUE'>: 27, <Color.RED: 'RED'>: 30, <Color.ORANGE: 'ORANGE'>: 25, <Color.WHITE: 'WHITE'>: 18}
+2023-04-23 21:16:52,636 DEBUG Generation 33, tournament 0: {<Color.RED: 'RED'>: 35, <Color.WHITE: 'WHITE'>: 22, <Color.ORANGE: 'ORANGE'>: 24, <Color.BLUE: 'BLUE'>: 19}
+2023-04-23 21:16:56,679 DEBUG Generation 34, tournament 0: {<Color.WHITE: 'WHITE'>: 21, <Color.RED: 'RED'>: 34, <Color.BLUE: 'BLUE'>: 19, <Color.ORANGE: 'ORANGE'>: 26}
+2023-04-23 21:17:00,771 DEBUG Generation 35, tournament 0: {<Color.ORANGE: 'ORANGE'>: 30, <Color.WHITE: 'WHITE'>: 16, <Color.BLUE: 'BLUE'>: 25, <Color.RED: 'RED'>: 28}
+2023-04-23 21:17:04,788 DEBUG Generation 36, tournament 0: {<Color.RED: 'RED'>: 39, <Color.ORANGE: 'ORANGE'>: 20, <Color.BLUE: 'BLUE'>: 19, <Color.WHITE: 'WHITE'>: 22}
+2023-04-23 21:17:08,958 DEBUG Generation 37, tournament 0: {<Color.BLUE: 'BLUE'>: 13, <Color.WHITE: 'WHITE'>: 28, <Color.ORANGE: 'ORANGE'>: 23, <Color.RED: 'RED'>: 35}
+2023-04-23 21:17:13,349 DEBUG Generation 38, tournament 0: {<Color.BLUE: 'BLUE'>: 26, <Color.WHITE: 'WHITE'>: 19, <Color.ORANGE: 'ORANGE'>: 23, <Color.RED: 'RED'>: 32}
+2023-04-23 21:17:17,531 DEBUG Generation 39, tournament 0: {<Color.ORANGE: 'ORANGE'>: 24, <Color.WHITE: 'WHITE'>: 22, <Color.BLUE: 'BLUE'>: 21, <Color.RED: 'RED'>: 33}
+2023-04-23 21:17:21,981 DEBUG Generation 40, tournament 0: {<Color.ORANGE: 'ORANGE'>: 25, <Color.WHITE: 'WHITE'>: 17, <Color.RED: 'RED'>: 36, <Color.BLUE: 'BLUE'>: 22}
+2023-04-23 21:17:24,703 INFO   (0) Color.RED : 52
+2023-04-23 21:17:24,704 INFO   (1) Color.ORANGE : 48
+2023-04-23 21:17:27,508 INFO   (0) Color.RED : 51
+2023-04-23 21:17:27,508 INFO   (1) Color.WHITE : 49
+2023-04-23 21:17:30,294 INFO   (0) Color.RED : 66
+2023-04-23 21:17:30,294 INFO   (1) Color.BLUE : 34
+2023-04-23 21:17:34,750 DEBUG Generation 41, tournament 0: {<Color.ORANGE: 'ORANGE'>: 25, <Color.RED: 'RED'>: 34, <Color.BLUE: 'BLUE'>: 21, <Color.WHITE: 'WHITE'>: 20}
+2023-04-23 21:17:38,918 DEBUG Generation 42, tournament 0: {<Color.RED: 'RED'>: 37, <Color.WHITE: 'WHITE'>: 19, <Color.BLUE: 'BLUE'>: 23, <Color.ORANGE: 'ORANGE'>: 21}
+2023-04-23 21:17:43,312 DEBUG Generation 43, tournament 0: {<Color.RED: 'RED'>: 40, <Color.WHITE: 'WHITE'>: 27, <Color.BLUE: 'BLUE'>: 16, <Color.ORANGE: 'ORANGE'>: 17}
+2023-04-23 21:17:47,556 DEBUG Generation 44, tournament 0: {<Color.RED: 'RED'>: 36, <Color.BLUE: 'BLUE'>: 21, <Color.ORANGE: 'ORANGE'>: 20, <Color.WHITE: 'WHITE'>: 23}
+2023-04-23 21:17:51,811 DEBUG Generation 45, tournament 0: {<Color.BLUE: 'BLUE'>: 25, <Color.RED: 'RED'>: 31, <Color.ORANGE: 'ORANGE'>: 26, <Color.WHITE: 'WHITE'>: 18}
+2023-04-23 21:17:56,176 DEBUG Generation 46, tournament 0: {<Color.WHITE: 'WHITE'>: 19, <Color.BLUE: 'BLUE'>: 19, <Color.RED: 'RED'>: 41, <Color.ORANGE: 'ORANGE'>: 21}
+2023-04-23 21:18:00,545 DEBUG Generation 47, tournament 0: {<Color.ORANGE: 'ORANGE'>: 19, <Color.RED: 'RED'>: 36, <Color.BLUE: 'BLUE'>: 23, <Color.WHITE: 'WHITE'>: 22}
+2023-04-23 21:18:04,888 DEBUG Generation 48, tournament 0: {<Color.RED: 'RED'>: 38, <Color.BLUE: 'BLUE'>: 20, <Color.WHITE: 'WHITE'>: 24, <Color.ORANGE: 'ORANGE'>: 18}
+2023-04-23 21:18:09,351 DEBUG Generation 49, tournament 0: {<Color.BLUE: 'BLUE'>: 24, <Color.RED: 'RED'>: 30, <Color.ORANGE: 'ORANGE'>: 27, <Color.WHITE: 'WHITE'>: 19}
+2023-04-23 21:18:21,352 INFO best from last session tournament ***** Color.BLUE =>> RedBOT these weights will be placed in red bots
+2023-04-23 21:18:21,352 INFO   (0) Color.ORANGE : 28
+2023-04-23 21:18:21,352 INFO   (1) Color.WHITE : 24
+2023-04-23 21:18:21,352 INFO   (2) Color.RED : 23
+2023-04-23 21:18:21,352 INFO   (3) Color.BLUE : 23
+2023-04-23 21:18:33,483 INFO best from last session tournament ***** Color.ORANGE =>> RedBOT these weights will be placed in red bots
+2023-04-23 21:18:33,484 INFO   (0) Color.WHITE : 31
+2023-04-23 21:18:33,484 INFO   (1) Color.ORANGE : 27
+2023-04-23 21:18:33,484 INFO   (2) Color.BLUE : 23
+2023-04-23 21:18:33,484 INFO   (3) Color.RED : 17
+2023-04-23 21:18:45,518 INFO best from last session tournament ***** Color.WHITE =>> RedBOT these weights will be placed in red bots
+2023-04-23 21:18:45,519 INFO   (0) Color.WHITE : 29
+2023-04-23 21:18:45,519 INFO   (1) Color.RED : 24
+2023-04-23 21:18:45,519 INFO   (2) Color.BLUE : 24
+2023-04-23 21:18:45,519 INFO   (3) Color.ORANGE : 22
+2023-04-23 21:18:45,519 INFO Best player's weights: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 4677, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 6615, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 1559, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 4675}, score: 33
+2023-04-23 21:18:50,349 INFO   (0) Color.ORANGE : 28
+2023-04-23 21:18:50,349 INFO   (1) Color.BLUE : 27
+2023-04-23 21:18:50,349 INFO   (2) Color.WHITE : 23
+2023-04-23 21:18:50,349 INFO   (3) Color.RED : 22
+2023-04-23 21:18:50,349 INFO Tournament 0 results: {<Color.BLUE: 'BLUE'>: 27, <Color.WHITE: 'WHITE'>: 23, <Color.ORANGE: 'ORANGE'>: 28, <Color.RED: 'RED'>: 22}
+2023-04-23 21:18:54,758 DEBUG Generation 0, tournament 1: {<Color.RED: 'RED'>: 30, <Color.BLUE: 'BLUE'>: 23, <Color.WHITE: 'WHITE'>: 22, <Color.ORANGE: 'ORANGE'>: 25}
+2023-04-23 21:18:54,759 DEBUG New Best Player: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 9186, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 455, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 3064, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 9036}, score: 23
+2023-04-23 21:18:54,759 DEBUG New Best Player: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 9835, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 6247, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 4098, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 2019}, score: 25
+2023-04-23 21:18:57,832 INFO   (0) Color.RED : 59
+2023-04-23 21:18:57,832 INFO   (1) Color.BLUE : 41
+2023-04-23 21:19:00,866 INFO   (0) Color.RED : 53
+2023-04-23 21:19:00,866 INFO   (1) Color.WHITE : 46
+2023-04-23 21:19:00,866 INFO   (2) None : 1
+2023-04-23 21:19:03,494 INFO   (0) Color.RED : 59
+2023-04-23 21:19:03,494 INFO   (1) Color.ORANGE : 41
+2023-04-23 21:19:07,780 DEBUG Generation 1, tournament 1: {<Color.BLUE: 'BLUE'>: 23, <Color.WHITE: 'WHITE'>: 36, <Color.RED: 'RED'>: 19, <Color.ORANGE: 'ORANGE'>: 22}
+2023-04-23 21:19:07,780 DEBUG New Best Player: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 9835, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 6247, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 4763, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 2019}, score: 36
+2023-04-23 21:19:11,986 DEBUG Generation 2, tournament 1: {<Color.RED: 'RED'>: 28, <Color.ORANGE: 'ORANGE'>: 24, <Color.WHITE: 'WHITE'>: 25, <Color.BLUE: 'BLUE'>: 23}
+2023-04-23 21:19:23,039 DEBUG Generation 0, tournament 0: {<Color.ORANGE: 'ORANGE'>: 26, <Color.BLUE: 'BLUE'>: 19, <Color.RED: 'RED'>: 33, <Color.WHITE: 'WHITE'>: 22}
+2023-04-23 21:19:23,040 DEBUG New Best Player: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 183, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 6980, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 7139, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 4995}, score: 26
+2023-04-23 21:19:26,159 INFO   (0) Color.RED : 57
+2023-04-23 21:19:26,159 INFO   (1) Color.ORANGE : 41
+2023-04-23 21:19:26,159 INFO   (2) None : 1
+2023-04-23 21:19:29,151 INFO   (0) Color.RED : 65
+2023-04-23 21:19:29,151 INFO   (1) Color.BLUE : 34
+2023-04-23 21:19:29,151 INFO   (2) None : 1
+2023-04-23 21:19:32,212 INFO   (0) Color.WHITE : 55
+2023-04-23 21:19:32,212 INFO   (1) Color.RED : 43
+2023-04-23 21:19:32,212 INFO   (2) None : 2
+2023-04-23 21:19:36,710 DEBUG Generation 1, tournament 0: {<Color.WHITE: 'WHITE'>: 28, <Color.BLUE: 'BLUE'>: 14, <Color.RED: 'RED'>: 33, <Color.ORANGE: 'ORANGE'>: 24}
+2023-04-23 21:19:36,710 DEBUG New Best Player: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 146, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 6980, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 7139, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 4472}, score: 28
+2023-04-23 21:19:41,406 DEBUG Generation 2, tournament 0: {<Color.BLUE: 'BLUE'>: 23, <Color.WHITE: 'WHITE'>: 26, <Color.ORANGE: 'ORANGE'>: 21, <Color.RED: 'RED'>: 30}
+2023-04-23 21:19:46,113 DEBUG Generation 3, tournament 0: {<Color.BLUE: 'BLUE'>: 16, <Color.ORANGE: 'ORANGE'>: 23, <Color.RED: 'RED'>: 39, <Color.WHITE: 'WHITE'>: 22}
+2023-04-23 21:19:50,940 DEBUG Generation 4, tournament 0: {<Color.WHITE: 'WHITE'>: 27, <Color.ORANGE: 'ORANGE'>: 20, <Color.RED: 'RED'>: 31, <Color.BLUE: 'BLUE'>: 22}
+2023-04-23 21:19:55,852 DEBUG Generation 5, tournament 0: {<Color.BLUE: 'BLUE'>: 23, <Color.RED: 'RED'>: 42, <Color.ORANGE: 'ORANGE'>: 30, <Color.WHITE: 'WHITE'>: 5}
+2023-04-23 21:19:55,853 DEBUG New Best Player: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 1177, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 6980, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 7139, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 3867}, score: 30
+2023-04-23 21:20:00,569 DEBUG Generation 6, tournament 0: {<Color.RED: 'RED'>: 28, <Color.ORANGE: 'ORANGE'>: 28, <Color.WHITE: 'WHITE'>: 27, <Color.BLUE: 'BLUE'>: 17}
+2023-04-23 21:20:05,163 DEBUG Generation 7, tournament 0: {<Color.RED: 'RED'>: 28, <Color.WHITE: 'WHITE'>: 16, <Color.ORANGE: 'ORANGE'>: 28, <Color.BLUE: 'BLUE'>: 27}
+2023-04-23 21:20:09,758 DEBUG Generation 8, tournament 0: {<Color.WHITE: 'WHITE'>: 22, <Color.BLUE: 'BLUE'>: 27, <Color.ORANGE: 'ORANGE'>: 27, <Color.RED: 'RED'>: 24}
+2023-04-23 21:20:12,636 INFO   (0) Color.RED : 56
+2023-04-23 21:20:12,636 INFO   (1) Color.WHITE : 44
+2023-04-23 21:20:15,408 INFO   (0) Color.RED : 59
+2023-04-23 21:20:15,408 INFO   (1) Color.BLUE : 41
+2023-04-23 21:20:18,595 INFO   (0) Color.RED : 59
+2023-04-23 21:20:18,595 INFO   (1) Color.ORANGE : 39
+2023-04-23 21:20:18,595 INFO   (2) None : 2
+2023-04-23 21:20:23,041 DEBUG Generation 9, tournament 0: {<Color.BLUE: 'BLUE'>: 27, <Color.RED: 'RED'>: 37, <Color.ORANGE: 'ORANGE'>: 20, <Color.WHITE: 'WHITE'>: 16}
+2023-04-23 21:20:27,613 DEBUG Generation 10, tournament 0: {<Color.WHITE: 'WHITE'>: 26, <Color.ORANGE: 'ORANGE'>: 25, <Color.BLUE: 'BLUE'>: 25, <Color.RED: 'RED'>: 24}
+2023-04-23 21:20:30,406 INFO   (0) Color.RED : 57
+2023-04-23 21:20:30,406 INFO   (1) Color.WHITE : 42
+2023-04-23 21:20:33,608 INFO   (0) Color.RED : 52
+2023-04-23 21:20:33,608 INFO   (1) Color.ORANGE : 45
+2023-04-23 21:20:33,608 INFO   (2) None : 3
+2023-04-23 21:20:36,638 INFO   (0) Color.RED : 56
+2023-04-23 21:20:36,639 INFO   (1) Color.BLUE : 41
+2023-04-23 21:20:36,639 INFO   (2) None : 2
+2023-04-23 21:20:41,041 DEBUG Generation 11, tournament 0: {<Color.BLUE: 'BLUE'>: 15, <Color.ORANGE: 'ORANGE'>: 23, <Color.RED: 'RED'>: 43, <Color.WHITE: 'WHITE'>: 19}
+2023-04-23 21:20:46,064 DEBUG Generation 12, tournament 0: {<Color.BLUE: 'BLUE'>: 19, <Color.ORANGE: 'ORANGE'>: 31, <Color.WHITE: 'WHITE'>: 28, <Color.RED: 'RED'>: 21}
+2023-04-23 21:20:46,065 DEBUG New Best Player: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 2098, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 8604, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 7484, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 4547}, score: 31
+2023-04-23 21:20:49,189 INFO   (0) Color.RED : 60
+2023-04-23 21:20:49,189 INFO   (1) Color.BLUE : 39
+2023-04-23 21:20:49,189 INFO   (2) None : 1
+2023-04-23 21:20:52,378 INFO   (0) Color.RED : 49
+2023-04-23 21:20:52,379 INFO   (1) Color.ORANGE : 48
+2023-04-23 21:20:52,379 INFO   (2) None : 3
+2023-04-23 21:20:55,616 INFO   (0) Color.RED : 56
+2023-04-23 21:20:55,616 INFO   (1) Color.WHITE : 43
+2023-04-23 21:20:55,616 INFO   (2) None : 1
+2023-04-23 21:21:00,622 DEBUG Generation 13, tournament 0: {<Color.BLUE: 'BLUE'>: 21, <Color.RED: 'RED'>: 28, <Color.WHITE: 'WHITE'>: 24, <Color.ORANGE: 'ORANGE'>: 27}
+2023-04-23 21:21:05,544 DEBUG Generation 14, tournament 0: {<Color.BLUE: 'BLUE'>: 23, <Color.ORANGE: 'ORANGE'>: 21, <Color.WHITE: 'WHITE'>: 19, <Color.RED: 'RED'>: 37}
+2023-04-23 21:21:10,428 DEBUG Generation 15, tournament 0: {<Color.WHITE: 'WHITE'>: 28, <Color.BLUE: 'BLUE'>: 17, <Color.RED: 'RED'>: 31, <Color.ORANGE: 'ORANGE'>: 24}
+2023-04-23 21:21:15,543 DEBUG Generation 16, tournament 0: {<Color.RED: 'RED'>: 38, <Color.ORANGE: 'ORANGE'>: 21, <Color.WHITE: 'WHITE'>: 20, <Color.BLUE: 'BLUE'>: 21}
+2023-04-23 21:21:20,652 DEBUG Generation 17, tournament 0: {<Color.WHITE: 'WHITE'>: 35, <Color.BLUE: 'BLUE'>: 20, <Color.ORANGE: 'ORANGE'>: 20, <Color.RED: 'RED'>: 25}
+2023-04-23 21:21:20,652 DEBUG New Best Player: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 3694, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 7997, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 6555, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 5471}, score: 35
+2023-04-23 21:21:25,337 DEBUG Generation 18, tournament 0: {<Color.BLUE: 'BLUE'>: 31, <Color.RED: 'RED'>: 32, <Color.ORANGE: 'ORANGE'>: 15, <Color.WHITE: 'WHITE'>: 22}
+2023-04-23 21:21:30,054 DEBUG Generation 19, tournament 0: {<Color.WHITE: 'WHITE'>: 20, <Color.BLUE: 'BLUE'>: 28, <Color.ORANGE: 'ORANGE'>: 22, <Color.RED: 'RED'>: 30}
+2023-04-23 21:21:34,605 DEBUG Generation 20, tournament 0: {<Color.WHITE: 'WHITE'>: 19, <Color.ORANGE: 'ORANGE'>: 23, <Color.BLUE: 'BLUE'>: 21, <Color.RED: 'RED'>: 37}
+2023-04-23 21:21:37,512 INFO   (0) Color.RED : 50
+2023-04-23 21:21:37,512 INFO   (1) Color.WHITE : 50
+2023-04-23 21:21:40,610 INFO   (0) Color.RED : 64
+2023-04-23 21:21:40,610 INFO   (1) Color.ORANGE : 35
+2023-04-23 21:21:40,610 INFO   (2) None : 1
+2023-04-23 21:21:43,698 INFO   (0) Color.BLUE : 50
+2023-04-23 21:21:43,699 INFO   (1) Color.RED : 48
+2023-04-23 21:21:43,699 INFO   (2) None : 2
+2023-04-23 21:21:48,569 DEBUG Generation 21, tournament 0: {<Color.BLUE: 'BLUE'>: 19, <Color.ORANGE: 'ORANGE'>: 22, <Color.WHITE: 'WHITE'>: 22, <Color.RED: 'RED'>: 37}
+2023-04-23 21:21:53,387 DEBUG Generation 22, tournament 0: {<Color.WHITE: 'WHITE'>: 23, <Color.RED: 'RED'>: 38, <Color.BLUE: 'BLUE'>: 16, <Color.ORANGE: 'ORANGE'>: 23}
+2023-04-23 21:21:58,374 DEBUG Generation 23, tournament 0: {<Color.BLUE: 'BLUE'>: 28, <Color.WHITE: 'WHITE'>: 22, <Color.RED: 'RED'>: 31, <Color.ORANGE: 'ORANGE'>: 18}
+2023-04-23 21:22:03,232 DEBUG Generation 24, tournament 0: {<Color.WHITE: 'WHITE'>: 22, <Color.BLUE: 'BLUE'>: 20, <Color.RED: 'RED'>: 36, <Color.ORANGE: 'ORANGE'>: 22}
+2023-04-23 21:22:08,198 DEBUG Generation 25, tournament 0: {<Color.RED: 'RED'>: 35, <Color.ORANGE: 'ORANGE'>: 24, <Color.WHITE: 'WHITE'>: 28, <Color.BLUE: 'BLUE'>: 13}
+2023-04-23 21:22:13,226 DEBUG Generation 26, tournament 0: {<Color.RED: 'RED'>: 33, <Color.ORANGE: 'ORANGE'>: 22, <Color.BLUE: 'BLUE'>: 22, <Color.WHITE: 'WHITE'>: 23}
+2023-04-23 21:22:18,082 DEBUG Generation 27, tournament 0: {<Color.WHITE: 'WHITE'>: 28, <Color.BLUE: 'BLUE'>: 19, <Color.RED: 'RED'>: 27, <Color.ORANGE: 'ORANGE'>: 26}
+2023-04-23 21:22:22,928 DEBUG Generation 28, tournament 0: {<Color.WHITE: 'WHITE'>: 28, <Color.RED: 'RED'>: 31, <Color.BLUE: 'BLUE'>: 21, <Color.ORANGE: 'ORANGE'>: 19}
+2023-04-23 21:22:28,265 DEBUG Generation 29, tournament 0: {<Color.ORANGE: 'ORANGE'>: 27, <Color.WHITE: 'WHITE'>: 24, <Color.RED: 'RED'>: 30, <Color.BLUE: 'BLUE'>: 19}
+2023-04-23 21:22:33,373 DEBUG Generation 30, tournament 0: {<Color.WHITE: 'WHITE'>: 21, <Color.RED: 'RED'>: 37, <Color.ORANGE: 'ORANGE'>: 20, <Color.BLUE: 'BLUE'>: 22}
+2023-04-23 21:22:36,781 INFO   (0) Color.RED : 57
+2023-04-23 21:22:36,781 INFO   (1) Color.WHITE : 42
+2023-04-23 21:22:39,863 INFO   (0) Color.RED : 59
+2023-04-23 21:22:39,863 INFO   (1) Color.ORANGE : 41
+2023-04-23 21:22:43,036 INFO   (0) Color.RED : 57
+2023-04-23 21:22:43,037 INFO   (1) Color.BLUE : 40
+2023-04-23 21:22:43,037 INFO   (2) None : 2
+2023-04-23 21:22:47,841 DEBUG Generation 31, tournament 0: {<Color.WHITE: 'WHITE'>: 24, <Color.RED: 'RED'>: 34, <Color.ORANGE: 'ORANGE'>: 24, <Color.BLUE: 'BLUE'>: 18}
+2023-04-23 21:22:52,641 DEBUG Generation 32, tournament 0: {<Color.WHITE: 'WHITE'>: 28, <Color.RED: 'RED'>: 33, <Color.ORANGE: 'ORANGE'>: 23, <Color.BLUE: 'BLUE'>: 15}
+2023-04-23 21:22:57,589 DEBUG Generation 33, tournament 0: {<Color.RED: 'RED'>: 33, <Color.BLUE: 'BLUE'>: 22, <Color.WHITE: 'WHITE'>: 24, <Color.ORANGE: 'ORANGE'>: 21}
+2023-04-23 21:23:02,514 DEBUG Generation 34, tournament 0: {<Color.RED: 'RED'>: 35, <Color.WHITE: 'WHITE'>: 21, <Color.ORANGE: 'ORANGE'>: 26, <Color.BLUE: 'BLUE'>: 18}
+2023-04-23 21:23:07,149 DEBUG Generation 35, tournament 0: {<Color.ORANGE: 'ORANGE'>: 25, <Color.RED: 'RED'>: 30, <Color.WHITE: 'WHITE'>: 22, <Color.BLUE: 'BLUE'>: 23}
+2023-04-23 21:23:12,020 DEBUG Generation 36, tournament 0: {<Color.ORANGE: 'ORANGE'>: 20, <Color.RED: 'RED'>: 28, <Color.BLUE: 'BLUE'>: 27, <Color.WHITE: 'WHITE'>: 25}
+2023-04-23 21:23:16,580 DEBUG Generation 37, tournament 0: {<Color.ORANGE: 'ORANGE'>: 23, <Color.BLUE: 'BLUE'>: 21, <Color.RED: 'RED'>: 30, <Color.WHITE: 'WHITE'>: 26}
+2023-04-23 21:23:21,419 DEBUG Generation 38, tournament 0: {<Color.RED: 'RED'>: 28, <Color.BLUE: 'BLUE'>: 25, <Color.ORANGE: 'ORANGE'>: 27, <Color.WHITE: 'WHITE'>: 19}
+2023-04-23 21:23:26,215 DEBUG Generation 39, tournament 0: {<Color.RED: 'RED'>: 33, <Color.BLUE: 'BLUE'>: 25, <Color.ORANGE: 'ORANGE'>: 25, <Color.WHITE: 'WHITE'>: 17}
+2023-04-23 21:23:31,140 DEBUG Generation 40, tournament 0: {<Color.BLUE: 'BLUE'>: 17, <Color.WHITE: 'WHITE'>: 22, <Color.RED: 'RED'>: 34, <Color.ORANGE: 'ORANGE'>: 27}
+2023-04-23 21:23:34,197 INFO   (0) Color.RED : 57
+2023-04-23 21:23:34,197 INFO   (1) Color.BLUE : 41
+2023-04-23 21:23:34,197 INFO   (2) None : 1
+2023-04-23 21:23:37,242 INFO   (0) Color.RED : 51
+2023-04-23 21:23:37,242 INFO   (1) Color.WHITE : 48
+2023-04-23 21:23:37,242 INFO   (2) None : 1
+2023-04-23 21:23:40,409 INFO   (0) Color.RED : 56
+2023-04-23 21:23:40,410 INFO   (1) Color.ORANGE : 43
+2023-04-23 21:23:40,410 INFO   (2) None : 1
+2023-04-23 21:23:44,869 DEBUG Generation 41, tournament 0: {<Color.BLUE: 'BLUE'>: 21, <Color.RED: 'RED'>: 33, <Color.ORANGE: 'ORANGE'>: 24, <Color.WHITE: 'WHITE'>: 22}
+2023-04-23 21:23:49,264 DEBUG Generation 42, tournament 0: {<Color.WHITE: 'WHITE'>: 30, <Color.BLUE: 'BLUE'>: 20, <Color.ORANGE: 'ORANGE'>: 27, <Color.RED: 'RED'>: 23}
+2023-04-23 21:23:52,146 INFO   (0) Color.RED : 59
+2023-04-23 21:23:52,146 INFO   (1) Color.WHITE : 40
+2023-04-23 21:23:52,146 INFO   (2) None : 1
+2023-04-23 21:23:55,310 INFO   (0) Color.RED : 53
+2023-04-23 21:23:55,310 INFO   (1) Color.BLUE : 47
+2023-04-23 21:23:58,356 INFO   (0) Color.ORANGE : 51
+2023-04-23 21:23:58,356 INFO   (1) Color.RED : 49
+2023-04-23 21:24:03,094 DEBUG Generation 43, tournament 0: {<Color.ORANGE: 'ORANGE'>: 19, <Color.BLUE: 'BLUE'>: 22, <Color.RED: 'RED'>: 35, <Color.WHITE: 'WHITE'>: 24}
+2023-04-23 21:24:07,954 DEBUG Generation 44, tournament 0: {<Color.ORANGE: 'ORANGE'>: 25, <Color.WHITE: 'WHITE'>: 25, <Color.RED: 'RED'>: 26, <Color.BLUE: 'BLUE'>: 24}
+2023-04-23 21:24:12,618 DEBUG Generation 45, tournament 0: {<Color.RED: 'RED'>: 30, <Color.WHITE: 'WHITE'>: 27, <Color.ORANGE: 'ORANGE'>: 23, <Color.BLUE: 'BLUE'>: 20}
+2023-04-23 21:24:17,178 DEBUG Generation 46, tournament 0: {<Color.BLUE: 'BLUE'>: 24, <Color.ORANGE: 'ORANGE'>: 23, <Color.RED: 'RED'>: 30, <Color.WHITE: 'WHITE'>: 23}
+2023-04-23 21:24:21,873 DEBUG Generation 47, tournament 0: {<Color.BLUE: 'BLUE'>: 22, <Color.RED: 'RED'>: 30, <Color.ORANGE: 'ORANGE'>: 30, <Color.WHITE: 'WHITE'>: 18}
+2023-04-23 21:24:26,723 DEBUG Generation 48, tournament 0: {<Color.RED: 'RED'>: 28, <Color.BLUE: 'BLUE'>: 24, <Color.ORANGE: 'ORANGE'>: 28, <Color.WHITE: 'WHITE'>: 19}
+2023-04-23 21:24:31,499 DEBUG Generation 49, tournament 0: {<Color.BLUE: 'BLUE'>: 21, <Color.ORANGE: 'ORANGE'>: 34, <Color.RED: 'RED'>: 26, <Color.WHITE: 'WHITE'>: 19}
+2023-04-23 21:24:45,180 INFO best from last session tournament ***** Color.BLUE =>> RedBOT these weights will be placed in red bots
+2023-04-23 21:24:45,181 INFO   (0) Color.WHITE : 32
+2023-04-23 21:24:45,181 INFO   (1) Color.RED : 26
+2023-04-23 21:24:45,181 INFO   (2) Color.BLUE : 21
+2023-04-23 21:24:45,181 INFO   (3) Color.ORANGE : 20
+2023-04-23 21:24:58,459 INFO best from last session tournament ***** Color.ORANGE =>> RedBOT these weights will be placed in red bots
+2023-04-23 21:24:58,460 INFO   (0) Color.ORANGE : 29
+2023-04-23 21:24:58,460 INFO   (1) Color.RED : 26
+2023-04-23 21:24:58,460 INFO   (2) Color.WHITE : 25
+2023-04-23 21:24:58,460 INFO   (3) Color.BLUE : 19
+2023-04-23 21:25:12,196 INFO best from last session tournament ***** Color.WHITE =>> RedBOT these weights will be placed in red bots
+2023-04-23 21:25:12,197 INFO   (0) Color.RED : 27
+2023-04-23 21:25:12,197 INFO   (1) Color.WHITE : 26
+2023-04-23 21:25:12,197 INFO   (2) Color.ORANGE : 24
+2023-04-23 21:25:12,197 INFO   (3) Color.BLUE : 22
+2023-04-23 21:25:12,197 INFO Best player's weights: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 3694, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 7997, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 6555, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 5471}, score: 35
+2023-04-23 21:25:17,450 INFO   (0) Color.WHITE : 31
+2023-04-23 21:25:17,450 INFO   (1) Color.RED : 25
+2023-04-23 21:25:17,450 INFO   (2) Color.ORANGE : 22
+2023-04-23 21:25:17,450 INFO   (3) Color.BLUE : 22
+2023-04-23 21:25:17,450 INFO Tournament 0 results: {<Color.WHITE: 'WHITE'>: 31, <Color.ORANGE: 'ORANGE'>: 22, <Color.BLUE: 'BLUE'>: 22, <Color.RED: 'RED'>: 25}
+2023-04-23 21:25:21,932 DEBUG Generation 0, tournament 1: {<Color.WHITE: 'WHITE'>: 21, <Color.BLUE: 'BLUE'>: 21, <Color.ORANGE: 'ORANGE'>: 21, <Color.RED: 'RED'>: 37}
+2023-04-23 21:25:21,932 DEBUG New Best Player: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 4766, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 9091, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 6132, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 638}, score: 21
+2023-04-23 21:25:24,944 INFO   (0) Color.RED : 50
+2023-04-23 21:25:24,945 INFO   (1) Color.WHITE : 50
+2023-04-23 21:25:28,079 INFO   (0) Color.RED : 59
+2023-04-23 21:25:28,080 INFO   (1) Color.BLUE : 41
+2023-04-23 21:25:30,929 INFO   (0) Color.RED : 54
+2023-04-23 21:25:30,929 INFO   (1) Color.ORANGE : 46
+2023-04-23 21:25:35,263 DEBUG Generation 1, tournament 1: {<Color.WHITE: 'WHITE'>: 24, <Color.RED: 'RED'>: 22, <Color.BLUE: 'BLUE'>: 30, <Color.ORANGE: 'ORANGE'>: 24}
+2023-04-23 21:25:35,264 DEBUG New Best Player: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 4766, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 9183, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 6132, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 638}, score: 24
+2023-04-23 21:25:35,264 DEBUG New Best Player: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 4766, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 9091, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 5423, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 638}, score: 30
+2023-04-23 21:25:38,109 INFO   (0) Color.RED : 54
+2023-04-23 21:25:38,109 INFO   (1) Color.WHITE : 45
+2023-04-23 21:25:38,109 INFO   (2) None : 1
+2023-04-23 21:25:41,004 INFO   (0) Color.BLUE : 50
+2023-04-23 21:25:41,004 INFO   (1) Color.RED : 48
+2023-04-23 21:25:41,004 INFO   (2) None : 2
+2023-04-23 21:25:43,832 INFO   (0) Color.RED : 53
+2023-04-23 21:25:43,832 INFO   (1) Color.ORANGE : 47
+2023-04-23 21:25:48,342 DEBUG Generation 2, tournament 1: {<Color.RED: 'RED'>: 32, <Color.BLUE: 'BLUE'>: 26, <Color.WHITE: 'WHITE'>: 18, <Color.ORANGE: 'ORANGE'>: 24}
+2023-04-23 21:25:52,669 DEBUG Generation 3, tournament 1: {<Color.BLUE: 'BLUE'>: 31, <Color.RED: 'RED'>: 16, <Color.WHITE: 'WHITE'>: 27, <Color.ORANGE: 'ORANGE'>: 26}
+2023-04-23 21:25:52,669 DEBUG New Best Player: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 4337, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 9091, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 5423, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 638}, score: 31
+2023-04-23 21:25:55,670 INFO   (0) Color.RED : 56
+2023-04-23 21:25:55,671 INFO   (1) Color.BLUE : 43
+2023-04-23 21:25:58,571 INFO   (0) Color.WHITE : 53
+2023-04-23 21:25:58,571 INFO   (1) Color.RED : 47
+2023-04-23 21:26:01,419 INFO   (0) Color.RED : 56
+2023-04-23 21:26:01,419 INFO   (1) Color.ORANGE : 44
+2023-04-23 21:26:05,773 DEBUG Generation 4, tournament 1: {<Color.ORANGE: 'ORANGE'>: 27, <Color.RED: 'RED'>: 21, <Color.WHITE: 'WHITE'>: 32, <Color.BLUE: 'BLUE'>: 20}
+2023-04-23 21:26:05,774 DEBUG New Best Player: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 4337, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 8295, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 5423, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 1178}, score: 32
+2023-04-23 21:26:08,550 INFO   (0) Color.RED : 53
+2023-04-23 21:26:08,550 INFO   (1) Color.ORANGE : 46
+2023-04-23 21:26:08,550 INFO   (2) None : 1
+2023-04-23 21:26:11,272 INFO   (0) Color.RED : 65
+2023-04-23 21:26:11,272 INFO   (1) Color.WHITE : 35
+2023-04-23 21:26:14,290 INFO   (0) Color.BLUE : 54
+2023-04-23 21:26:14,291 INFO   (1) Color.RED : 46
+2023-04-23 21:26:18,357 DEBUG Generation 5, tournament 1: {<Color.WHITE: 'WHITE'>: 25, <Color.ORANGE: 'ORANGE'>: 32, <Color.RED: 'RED'>: 23, <Color.BLUE: 'BLUE'>: 20}
+2023-04-23 21:26:21,138 INFO   (0) Color.RED : 57
+2023-04-23 21:26:21,138 INFO   (1) Color.WHITE : 42
+2023-04-23 21:26:24,079 INFO   (0) Color.ORANGE : 55
+2023-04-23 21:26:24,079 INFO   (1) Color.RED : 44
+2023-04-23 21:26:24,079 INFO   (2) None : 1
+2023-04-23 21:26:27,082 INFO   (0) Color.RED : 51
+2023-04-23 21:26:27,082 INFO   (1) Color.BLUE : 47
+2023-04-23 21:26:27,082 INFO   (2) None : 2
+2023-04-23 21:26:31,260 DEBUG Generation 6, tournament 1: {<Color.RED: 'RED'>: 27, <Color.ORANGE: 'ORANGE'>: 28, <Color.WHITE: 'WHITE'>: 24, <Color.BLUE: 'BLUE'>: 21}
+2023-04-23 21:26:35,690 DEBUG Generation 7, tournament 1: {<Color.ORANGE: 'ORANGE'>: 20, <Color.WHITE: 'WHITE'>: 21, <Color.RED: 'RED'>: 31, <Color.BLUE: 'BLUE'>: 28}
+2023-04-23 21:26:39,832 DEBUG Generation 8, tournament 1: {<Color.BLUE: 'BLUE'>: 20, <Color.RED: 'RED'>: 32, <Color.ORANGE: 'ORANGE'>: 28, <Color.WHITE: 'WHITE'>: 20}
+2023-04-23 21:26:43,875 DEBUG Generation 9, tournament 1: {<Color.ORANGE: 'ORANGE'>: 20, <Color.WHITE: 'WHITE'>: 26, <Color.RED: 'RED'>: 30, <Color.BLUE: 'BLUE'>: 24}
+2023-04-23 21:26:48,109 DEBUG Generation 10, tournament 1: {<Color.RED: 'RED'>: 28, <Color.ORANGE: 'ORANGE'>: 21, <Color.WHITE: 'WHITE'>: 28, <Color.BLUE: 'BLUE'>: 23}
+2023-04-23 21:26:50,756 INFO   (0) Color.RED : 54
+2023-04-23 21:26:50,756 INFO   (1) Color.ORANGE : 46
+2023-04-23 21:26:53,562 INFO   (0) Color.WHITE : 50
+2023-04-23 21:26:53,563 INFO   (1) Color.RED : 49
+2023-04-23 21:26:53,563 INFO   (2) None : 1
+2023-04-23 21:26:56,341 INFO   (0) Color.RED : 52
+2023-04-23 21:26:56,341 INFO   (1) Color.BLUE : 47
+2023-04-23 21:26:56,342 INFO   (2) None : 1
+2023-04-23 21:27:00,506 DEBUG Generation 11, tournament 1: {<Color.BLUE: 'BLUE'>: 21, <Color.RED: 'RED'>: 26, <Color.WHITE: 'WHITE'>: 30, <Color.ORANGE: 'ORANGE'>: 23}
+2023-04-23 21:27:04,719 DEBUG Generation 12, tournament 1: {<Color.WHITE: 'WHITE'>: 36, <Color.ORANGE: 'ORANGE'>: 9, <Color.RED: 'RED'>: 26, <Color.BLUE: 'BLUE'>: 28}
+2023-04-23 21:27:04,720 DEBUG New Best Player: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 4945, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 8483, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 7804, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 331}, score: 36
+2023-04-23 21:27:08,867 DEBUG Generation 13, tournament 1: {<Color.RED: 'RED'>: 28, <Color.WHITE: 'WHITE'>: 25, <Color.ORANGE: 'ORANGE'>: 27, <Color.BLUE: 'BLUE'>: 20}
+2023-04-23 21:27:13,295 DEBUG Generation 14, tournament 1: {<Color.RED: 'RED'>: 27, <Color.WHITE: 'WHITE'>: 24, <Color.BLUE: 'BLUE'>: 21, <Color.ORANGE: 'ORANGE'>: 28}
+2023-04-23 21:27:18,007 DEBUG Generation 15, tournament 1: {<Color.WHITE: 'WHITE'>: 25, <Color.BLUE: 'BLUE'>: 23, <Color.RED: 'RED'>: 27, <Color.ORANGE: 'ORANGE'>: 25}
+2023-04-23 21:27:22,644 DEBUG Generation 16, tournament 1: {<Color.WHITE: 'WHITE'>: 28, <Color.RED: 'RED'>: 25, <Color.ORANGE: 'ORANGE'>: 24, <Color.BLUE: 'BLUE'>: 22}
+2023-04-23 21:27:27,474 DEBUG Generation 17, tournament 1: {<Color.WHITE: 'WHITE'>: 22, <Color.ORANGE: 'ORANGE'>: 28, <Color.BLUE: 'BLUE'>: 22, <Color.RED: 'RED'>: 27}
+2023-04-23 21:27:32,388 DEBUG Generation 18, tournament 1: {<Color.WHITE: 'WHITE'>: 20, <Color.BLUE: 'BLUE'>: 24, <Color.ORANGE: 'ORANGE'>: 31, <Color.RED: 'RED'>: 25}
+2023-04-23 21:27:37,278 DEBUG Generation 19, tournament 1: {<Color.WHITE: 'WHITE'>: 22, <Color.BLUE: 'BLUE'>: 22, <Color.ORANGE: 'ORANGE'>: 20, <Color.RED: 'RED'>: 36}
+2023-04-23 21:27:42,086 DEBUG Generation 20, tournament 1: {<Color.BLUE: 'BLUE'>: 24, <Color.WHITE: 'WHITE'>: 25, <Color.ORANGE: 'ORANGE'>: 22, <Color.RED: 'RED'>: 28}
+2023-04-23 21:27:45,113 INFO   (0) Color.RED : 51
+2023-04-23 21:27:45,113 INFO   (1) Color.BLUE : 48
+2023-04-23 21:27:45,113 INFO   (2) None : 1
+2023-04-23 21:27:48,340 INFO   (0) Color.WHITE : 56
+2023-04-23 21:27:48,341 INFO   (1) Color.RED : 44
+2023-04-23 21:27:51,431 INFO   (0) Color.RED : 56
+2023-04-23 21:27:51,431 INFO   (1) Color.ORANGE : 43
+2023-04-23 21:27:51,431 INFO   (2) None : 1
+2023-04-23 21:27:56,011 DEBUG Generation 21, tournament 1: {<Color.WHITE: 'WHITE'>: 18, <Color.BLUE: 'BLUE'>: 35, <Color.ORANGE: 'ORANGE'>: 23, <Color.RED: 'RED'>: 24}
+2023-04-23 21:27:58,997 INFO   (0) Color.RED : 53
+2023-04-23 21:27:58,997 INFO   (1) Color.WHITE : 47
+2023-04-23 21:28:02,080 INFO   (0) Color.BLUE : 53
+2023-04-23 21:28:02,081 INFO   (1) Color.RED : 47
+2023-04-23 21:28:05,003 INFO   (0) Color.RED : 56
+2023-04-23 21:28:05,003 INFO   (1) Color.ORANGE : 43
+2023-04-23 21:28:09,999 DEBUG Generation 22, tournament 1: {<Color.ORANGE: 'ORANGE'>: 38, <Color.RED: 'RED'>: 44, <Color.BLUE: 'BLUE'>: 6, <Color.WHITE: 'WHITE'>: 12}
+2023-04-23 21:28:09,999 DEBUG New Best Player: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 4128, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 12303, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 7303, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 365}, score: 38
+2023-04-23 21:28:15,156 DEBUG Generation 23, tournament 1: {<Color.WHITE: 'WHITE'>: 20, <Color.RED: 'RED'>: 28, <Color.BLUE: 'BLUE'>: 26, <Color.ORANGE: 'ORANGE'>: 26}
+2023-04-23 21:28:20,111 DEBUG Generation 24, tournament 1: {<Color.ORANGE: 'ORANGE'>: 25, <Color.RED: 'RED'>: 21, <Color.WHITE: 'WHITE'>: 24, <Color.BLUE: 'BLUE'>: 30}
+2023-04-23 21:28:23,325 INFO   (0) Color.ORANGE : 55
+2023-04-23 21:28:23,325 INFO   (1) Color.RED : 45
+2023-04-23 21:28:26,653 INFO   (0) Color.RED : 54
+2023-04-23 21:28:26,653 INFO   (1) Color.WHITE : 45
+2023-04-23 21:28:26,653 INFO   (2) None : 1
+2023-04-23 21:28:29,772 INFO   (0) Color.RED : 53
+2023-04-23 21:28:29,773 INFO   (1) Color.BLUE : 47
+2023-04-23 21:28:35,501 DEBUG Generation 25, tournament 1: {<Color.RED: 'RED'>: 67, None: 3, <Color.WHITE: 'WHITE'>: 11, <Color.ORANGE: 'ORANGE'>: 9, <Color.BLUE: 'BLUE'>: 10}
+2023-04-23 21:28:41,144 DEBUG Generation 26, tournament 1: {<Color.RED: 'RED'>: 61, <Color.ORANGE: 'ORANGE'>: 9, <Color.WHITE: 'WHITE'>: 10, None: 7, <Color.BLUE: 'BLUE'>: 13}
+2023-04-23 21:28:45,997 DEBUG Generation 27, tournament 1: {<Color.ORANGE: 'ORANGE'>: 24, <Color.BLUE: 'BLUE'>: 34, <Color.WHITE: 'WHITE'>: 28, <Color.RED: 'RED'>: 14}
+2023-04-23 21:28:49,398 INFO   (0) Color.RED : 51
+2023-04-23 21:28:49,398 INFO   (1) Color.ORANGE : 49
+2023-04-23 21:28:52,427 INFO   (0) Color.RED : 60
+2023-04-23 21:28:52,428 INFO   (1) Color.BLUE : 40
+2023-04-23 21:28:55,485 INFO   (0) Color.WHITE : 54
+2023-04-23 21:28:55,486 INFO   (1) Color.RED : 44
+2023-04-23 21:28:55,486 INFO   (2) None : 2
+2023-04-23 21:29:00,602 DEBUG Generation 28, tournament 1: {<Color.BLUE: 'BLUE'>: 26, <Color.WHITE: 'WHITE'>: 28, <Color.RED: 'RED'>: 21, <Color.ORANGE: 'ORANGE'>: 24}
+2023-04-23 21:29:03,724 INFO   (0) Color.RED : 57
+2023-04-23 21:29:03,724 INFO   (1) Color.BLUE : 42
+2023-04-23 21:29:06,848 INFO   (0) Color.WHITE : 59
+2023-04-23 21:29:06,848 INFO   (1) Color.RED : 41
+2023-04-23 21:29:09,862 INFO   (0) Color.RED : 60
+2023-04-23 21:29:09,863 INFO   (1) Color.ORANGE : 40
+2023-04-23 21:29:14,725 DEBUG Generation 29, tournament 1: {<Color.RED: 'RED'>: 21, <Color.BLUE: 'BLUE'>: 24, <Color.ORANGE: 'ORANGE'>: 31, <Color.WHITE: 'WHITE'>: 24}
+2023-04-23 21:29:17,842 INFO   (0) Color.RED : 52
+2023-04-23 21:29:17,843 INFO   (1) Color.BLUE : 47
+2023-04-23 21:29:17,843 INFO   (2) None : 1
+2023-04-23 21:29:21,071 INFO   (0) Color.RED : 55
+2023-04-23 21:29:21,071 INFO   (1) Color.ORANGE : 45
+2023-04-23 21:29:24,107 INFO   (0) Color.RED : 51
+2023-04-23 21:29:24,108 INFO   (1) Color.WHITE : 48
+2023-04-23 21:29:24,108 INFO   (2) None : 1
+2023-04-23 21:29:29,022 DEBUG Generation 30, tournament 1: {<Color.RED: 'RED'>: 17, <Color.ORANGE: 'ORANGE'>: 26, <Color.BLUE: 'BLUE'>: 31, <Color.WHITE: 'WHITE'>: 26}
+2023-04-23 21:29:32,189 INFO   (0) Color.ORANGE : 52
+2023-04-23 21:29:32,189 INFO   (1) Color.RED : 48
+2023-04-23 21:29:35,306 INFO   (0) Color.BLUE : 56
+2023-04-23 21:29:35,307 INFO   (1) Color.RED : 42
+2023-04-23 21:29:35,307 INFO   (2) None : 1
+2023-04-23 21:29:38,296 INFO   (0) Color.RED : 60
+2023-04-23 21:29:38,297 INFO   (1) Color.WHITE : 40
+2023-04-23 21:29:43,483 DEBUG Generation 31, tournament 1: {<Color.BLUE: 'BLUE'>: 21, <Color.ORANGE: 'ORANGE'>: 37, <Color.RED: 'RED'>: 19, <Color.WHITE: 'WHITE'>: 23}
+2023-04-23 21:29:46,451 INFO   (0) Color.RED : 51
+2023-04-23 21:29:46,451 INFO   (1) Color.BLUE : 49
+2023-04-23 21:29:49,554 INFO   (0) Color.RED : 55
+2023-04-23 21:29:49,555 INFO   (1) Color.ORANGE : 45
+2023-04-23 21:29:52,934 INFO   (0) Color.WHITE : 51
+2023-04-23 21:29:52,934 INFO   (1) Color.RED : 48
+2023-04-23 21:29:52,934 INFO   (2) None : 1
+2023-04-23 21:29:57,814 DEBUG Generation 32, tournament 1: {<Color.ORANGE: 'ORANGE'>: 33, <Color.WHITE: 'WHITE'>: 23, <Color.BLUE: 'BLUE'>: 25, <Color.RED: 'RED'>: 19}
+2023-04-23 21:30:00,737 INFO   (0) Color.RED : 65
+2023-04-23 21:30:00,737 INFO   (1) Color.ORANGE : 35
+2023-04-23 21:30:03,922 INFO   (0) Color.RED : 56
+2023-04-23 21:30:03,923 INFO   (1) Color.WHITE : 44
+2023-04-23 21:30:07,080 INFO   (0) Color.BLUE : 50
+2023-04-23 21:30:07,081 INFO   (1) Color.RED : 50
+2023-04-23 21:30:12,035 DEBUG Generation 33, tournament 1: {<Color.ORANGE: 'ORANGE'>: 32, <Color.BLUE: 'BLUE'>: 26, <Color.RED: 'RED'>: 20, <Color.WHITE: 'WHITE'>: 22}
+2023-04-23 21:30:15,142 INFO   (0) Color.RED : 51
+2023-04-23 21:30:15,142 INFO   (1) Color.ORANGE : 49
+2023-04-23 21:30:18,140 INFO   (0) Color.BLUE : 53
+2023-04-23 21:30:18,140 INFO   (1) Color.RED : 46
+2023-04-23 21:30:18,140 INFO   (2) None : 1
+2023-04-23 21:30:21,267 INFO   (0) Color.RED : 53
+2023-04-23 21:30:21,267 INFO   (1) Color.WHITE : 47
+2023-04-23 21:30:27,243 DEBUG Generation 34, tournament 1: {<Color.RED: 'RED'>: 64, <Color.WHITE: 'WHITE'>: 5, None: 10, <Color.ORANGE: 'ORANGE'>: 11, <Color.BLUE: 'BLUE'>: 10}
+2023-04-23 21:30:32,994 DEBUG Generation 35, tournament 1: {<Color.BLUE: 'BLUE'>: 13, <Color.WHITE: 'WHITE'>: 9, <Color.RED: 'RED'>: 67, <Color.ORANGE: 'ORANGE'>: 7, None: 4}
+2023-04-23 21:30:38,282 DEBUG Generation 36, tournament 1: {<Color.RED: 'RED'>: 69, <Color.WHITE: 'WHITE'>: 9, <Color.BLUE: 'BLUE'>: 10, <Color.ORANGE: 'ORANGE'>: 10, None: 2}
+2023-04-23 21:30:43,699 DEBUG Generation 37, tournament 1: {<Color.RED: 'RED'>: 71, None: 3, <Color.ORANGE: 'ORANGE'>: 12, <Color.BLUE: 'BLUE'>: 8, <Color.WHITE: 'WHITE'>: 6}
+2023-04-23 21:30:49,521 DEBUG Generation 38, tournament 1: {<Color.RED: 'RED'>: 61, <Color.BLUE: 'BLUE'>: 14, <Color.ORANGE: 'ORANGE'>: 14, <Color.WHITE: 'WHITE'>: 6, None: 5}
+2023-04-23 21:30:55,319 DEBUG Generation 39, tournament 1: {<Color.RED: 'RED'>: 64, <Color.WHITE: 'WHITE'>: 10, <Color.ORANGE: 'ORANGE'>: 11, <Color.BLUE: 'BLUE'>: 11, None: 4}
+2023-04-23 21:31:01,285 DEBUG Generation 40, tournament 1: {<Color.RED: 'RED'>: 75, <Color.WHITE: 'WHITE'>: 6, None: 3, <Color.ORANGE: 'ORANGE'>: 9, <Color.BLUE: 'BLUE'>: 7}
+2023-04-23 21:31:04,710 INFO   (0) Color.RED : 71
+2023-04-23 21:31:04,711 INFO   (1) Color.WHITE : 26
+2023-04-23 21:31:04,711 INFO   (2) None : 3
+2023-04-23 21:31:07,959 INFO   (0) Color.RED : 66
+2023-04-23 21:31:07,960 INFO   (1) Color.ORANGE : 34
+2023-04-23 21:31:11,298 INFO   (0) Color.RED : 75
+2023-04-23 21:31:11,299 INFO   (1) Color.BLUE : 24
+2023-04-23 21:31:11,299 INFO   (2) None : 1
+2023-04-23 21:31:16,969 DEBUG Generation 41, tournament 1: {<Color.RED: 'RED'>: 57, <Color.ORANGE: 'ORANGE'>: 13, <Color.BLUE: 'BLUE'>: 16, <Color.WHITE: 'WHITE'>: 9, None: 4}
+2023-04-23 21:31:22,691 DEBUG Generation 42, tournament 1: {<Color.RED: 'RED'>: 67, <Color.ORANGE: 'ORANGE'>: 12, None: 2, <Color.WHITE: 'WHITE'>: 10, <Color.BLUE: 'BLUE'>: 9}
+2023-04-23 21:31:28,578 DEBUG Generation 43, tournament 1: {<Color.RED: 'RED'>: 68, <Color.WHITE: 'WHITE'>: 10, <Color.ORANGE: 'ORANGE'>: 11, <Color.BLUE: 'BLUE'>: 8, None: 3}
+2023-04-23 21:31:34,174 DEBUG Generation 44, tournament 1: {<Color.RED: 'RED'>: 72, <Color.WHITE: 'WHITE'>: 13, <Color.ORANGE: 'ORANGE'>: 6, <Color.BLUE: 'BLUE'>: 6, None: 3}
+2023-04-23 21:31:40,034 DEBUG Generation 45, tournament 1: {<Color.RED: 'RED'>: 74, None: 5, <Color.BLUE: 'BLUE'>: 5, <Color.WHITE: 'WHITE'>: 10, <Color.ORANGE: 'ORANGE'>: 6}
+2023-04-23 21:31:45,953 DEBUG Generation 46, tournament 1: {<Color.ORANGE: 'ORANGE'>: 11, <Color.BLUE: 'BLUE'>: 13, <Color.RED: 'RED'>: 61, <Color.WHITE: 'WHITE'>: 8, None: 7}
+2023-04-23 21:31:52,137 DEBUG Generation 47, tournament 1: {<Color.RED: 'RED'>: 70, <Color.BLUE: 'BLUE'>: 6, None: 5, <Color.WHITE: 'WHITE'>: 11, <Color.ORANGE: 'ORANGE'>: 8}
+2023-04-23 21:31:57,735 DEBUG Generation 48, tournament 1: {<Color.ORANGE: 'ORANGE'>: 11, <Color.BLUE: 'BLUE'>: 14, <Color.RED: 'RED'>: 63, <Color.WHITE: 'WHITE'>: 8, None: 4}
+2023-04-23 21:32:03,620 DEBUG Generation 49, tournament 1: {<Color.RED: 'RED'>: 73, <Color.ORANGE: 'ORANGE'>: 13, <Color.WHITE: 'WHITE'>: 6, <Color.BLUE: 'BLUE'>: 5, None: 3}
+2023-04-23 21:32:17,015 INFO best from last session tournament ***** Color.ORANGE =>> RedBOT these weights will be placed in red bots
+2023-04-23 21:32:17,015 INFO   (0) Color.WHITE : 33
+2023-04-23 21:32:17,015 INFO   (1) Color.BLUE : 29
+2023-04-23 21:32:17,015 INFO   (2) Color.ORANGE : 28
+2023-04-23 21:32:17,015 INFO   (3) Color.RED : 8
+2023-04-23 21:32:30,727 INFO best from last session tournament ***** Color.WHITE =>> RedBOT these weights will be placed in red bots
+2023-04-23 21:32:30,729 INFO   (0) Color.WHITE : 38
+2023-04-23 21:32:30,729 INFO   (1) Color.ORANGE : 26
+2023-04-23 21:32:30,729 INFO   (2) Color.BLUE : 23
+2023-04-23 21:32:30,729 INFO   (3) Color.RED : 11
+2023-04-23 21:32:44,337 INFO best from last session tournament ***** Color.BLUE =>> RedBOT these weights will be placed in red bots
+2023-04-23 21:32:44,338 INFO   (0) Color.WHITE : 43
+2023-04-23 21:32:44,338 INFO   (1) Color.BLUE : 26
+2023-04-23 21:32:44,338 INFO   (2) Color.ORANGE : 21
+2023-04-23 21:32:44,338 INFO   (3) Color.RED : 9
+2023-04-23 21:32:44,338 INFO Best player's weights: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 4128, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 12303, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 7303, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 365}, score: 38
+2023-04-23 21:32:49,385 INFO   (0) Color.WHITE : 28
+2023-04-23 21:32:49,386 INFO   (1) Color.RED : 28
+2023-04-23 21:32:49,386 INFO   (2) Color.ORANGE : 23
+2023-04-23 21:32:49,386 INFO   (3) Color.BLUE : 21
+2023-04-23 21:32:49,386 INFO Tournament 1 results: {<Color.WHITE: 'WHITE'>: 28, <Color.RED: 'RED'>: 28, <Color.ORANGE: 'ORANGE'>: 23, <Color.BLUE: 'BLUE'>: 21}
+2023-04-23 21:32:53,018 DEBUG Generation 0, tournament 2: {<Color.RED: 'RED'>: 30, <Color.BLUE: 'BLUE'>: 12, <Color.WHITE: 'WHITE'>: 24, <Color.ORANGE: 'ORANGE'>: 34}
+2023-04-23 21:32:53,019 DEBUG New Best Player: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 7644, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 544, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 2962, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 7834}, score: 12
+2023-04-23 21:32:53,019 DEBUG New Best Player: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 2115, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 1634, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 2398, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 5313}, score: 24
+2023-04-23 21:32:53,019 DEBUG New Best Player: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 1235, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 4086, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 5394, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 437}, score: 34
+2023-04-23 21:32:56,318 INFO   (0) Color.RED : 49
+2023-04-23 21:32:56,318 INFO   (1) Color.BLUE : 48
+2023-04-23 21:32:56,318 INFO   (2) None : 3
+2023-04-23 21:32:58,935 INFO   (0) Color.RED : 61
+2023-04-23 21:32:58,935 INFO   (1) Color.WHITE : 39
+2023-04-23 21:33:01,402 INFO   (0) Color.ORANGE : 52
+2023-04-23 21:33:01,402 INFO   (1) Color.RED : 47
+2023-04-23 21:33:01,402 INFO   (2) None : 1
+2023-04-23 21:33:04,715 DEBUG Generation 1, tournament 2: {<Color.BLUE: 'BLUE'>: 32, <Color.WHITE: 'WHITE'>: 19, <Color.ORANGE: 'ORANGE'>: 25, <Color.RED: 'RED'>: 24}
+2023-04-23 21:33:07,108 INFO   (0) Color.RED : 56
+2023-04-23 21:33:07,108 INFO   (1) Color.BLUE : 44
+2023-04-23 21:33:09,560 INFO   (0) Color.RED : 52
+2023-04-23 21:33:09,560 INFO   (1) Color.WHITE : 48
+2023-04-23 21:33:12,211 INFO   (0) Color.ORANGE : 50
+2023-04-23 21:33:12,211 INFO   (1) Color.RED : 50
+2023-04-23 21:33:15,751 DEBUG Generation 2, tournament 2: {<Color.RED: 'RED'>: 40, <Color.ORANGE: 'ORANGE'>: 40, <Color.WHITE: 'WHITE'>: 11, <Color.BLUE: 'BLUE'>: 9}
+2023-04-23 21:33:15,751 DEBUG New Best Player: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 1235, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 3890, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 4041, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 437}, score: 40
+2023-04-23 21:33:19,146 DEBUG Generation 3, tournament 2: {<Color.BLUE: 'BLUE'>: 21, <Color.ORANGE: 'ORANGE'>: 26, <Color.WHITE: 'WHITE'>: 26, <Color.RED: 'RED'>: 27}
+2023-04-23 21:33:22,888 DEBUG Generation 4, tournament 2: {<Color.ORANGE: 'ORANGE'>: 28, <Color.BLUE: 'BLUE'>: 27, <Color.RED: 'RED'>: 24, <Color.WHITE: 'WHITE'>: 21}
+2023-04-23 21:33:25,439 INFO   (0) Color.ORANGE : 60
+2023-04-23 21:33:25,440 INFO   (1) Color.RED : 40
+2023-04-23 21:33:28,123 INFO   (0) Color.RED : 50
+2023-04-23 21:33:28,123 INFO   (1) Color.BLUE : 50
+2023-04-23 21:33:30,976 INFO   (0) Color.RED : 52
+2023-04-23 21:33:30,976 INFO   (1) Color.WHITE : 48
+2023-04-23 21:33:34,471 DEBUG Generation 5, tournament 2: {<Color.WHITE: 'WHITE'>: 32, <Color.RED: 'RED'>: 44, <Color.ORANGE: 'ORANGE'>: 13, <Color.BLUE: 'BLUE'>: 10, None: 1}
+2023-04-23 21:33:37,881 DEBUG Generation 6, tournament 2: {<Color.WHITE: 'WHITE'>: 30, <Color.BLUE: 'BLUE'>: 28, <Color.RED: 'RED'>: 28, <Color.ORANGE: 'ORANGE'>: 13}
+2023-04-23 21:33:41,462 DEBUG Generation 7, tournament 2: {<Color.BLUE: 'BLUE'>: 8, <Color.WHITE: 'WHITE'>: 35, <Color.RED: 'RED'>: 43, <Color.ORANGE: 'ORANGE'>: 13, None: 1}
+2023-04-23 21:33:45,195 DEBUG Generation 8, tournament 2: {<Color.BLUE: 'BLUE'>: 27, <Color.WHITE: 'WHITE'>: 33, <Color.RED: 'RED'>: 32, <Color.ORANGE: 'ORANGE'>: 8}
+2023-04-23 21:33:48,808 DEBUG Generation 9, tournament 2: {<Color.RED: 'RED'>: 32, <Color.ORANGE: 'ORANGE'>: 28, <Color.WHITE: 'WHITE'>: 18, <Color.BLUE: 'BLUE'>: 21}
+2023-04-23 21:33:52,517 DEBUG Generation 10, tournament 2: {<Color.ORANGE: 'ORANGE'>: 22, <Color.WHITE: 'WHITE'>: 18, <Color.RED: 'RED'>: 28, <Color.BLUE: 'BLUE'>: 31}
+2023-04-23 21:33:55,078 INFO   (0) Color.RED : 51
+2023-04-23 21:33:55,078 INFO   (1) Color.ORANGE : 49
+2023-04-23 21:33:57,696 INFO   (0) Color.RED : 60
+2023-04-23 21:33:57,696 INFO   (1) Color.WHITE : 39
+2023-04-23 21:33:57,696 INFO   (2) None : 1
+2023-04-23 21:34:00,241 INFO   (0) Color.BLUE : 52
+2023-04-23 21:34:00,241 INFO   (1) Color.RED : 47
+2023-04-23 21:34:00,241 INFO   (2) None : 1
+2023-04-23 21:34:03,487 DEBUG Generation 11, tournament 2: {<Color.BLUE: 'BLUE'>: 23, <Color.ORANGE: 'ORANGE'>: 28, <Color.RED: 'RED'>: 26, <Color.WHITE: 'WHITE'>: 22}
+2023-04-23 21:34:06,967 DEBUG Generation 12, tournament 2: {<Color.BLUE: 'BLUE'>: 20, <Color.WHITE: 'WHITE'>: 25, <Color.RED: 'RED'>: 30, <Color.ORANGE: 'ORANGE'>: 25}
+2023-04-23 21:34:10,383 DEBUG Generation 13, tournament 2: {<Color.BLUE: 'BLUE'>: 21, <Color.ORANGE: 'ORANGE'>: 31, <Color.WHITE: 'WHITE'>: 20, <Color.RED: 'RED'>: 28}
+2023-04-23 21:34:14,472 DEBUG Generation 14, tournament 2: {<Color.RED: 'RED'>: 41, <Color.WHITE: 'WHITE'>: 39, None: 2, <Color.BLUE: 'BLUE'>: 8, <Color.ORANGE: 'ORANGE'>: 10}
+2023-04-23 21:34:17,977 DEBUG Generation 15, tournament 2: {<Color.WHITE: 'WHITE'>: 21, <Color.BLUE: 'BLUE'>: 32, <Color.RED: 'RED'>: 33, <Color.ORANGE: 'ORANGE'>: 14}
+2023-04-23 21:34:21,443 DEBUG Generation 16, tournament 2: {<Color.WHITE: 'WHITE'>: 20, <Color.RED: 'RED'>: 31, <Color.ORANGE: 'ORANGE'>: 24, <Color.BLUE: 'BLUE'>: 25}
+2023-04-23 21:34:25,115 DEBUG Generation 17, tournament 2: {<Color.ORANGE: 'ORANGE'>: 27, <Color.BLUE: 'BLUE'>: 21, <Color.RED: 'RED'>: 33, <Color.WHITE: 'WHITE'>: 19}
+2023-04-23 21:34:28,661 DEBUG Generation 18, tournament 2: {<Color.BLUE: 'BLUE'>: 17, <Color.ORANGE: 'ORANGE'>: 30, <Color.RED: 'RED'>: 28, <Color.WHITE: 'WHITE'>: 24}
+2023-04-23 21:34:32,181 DEBUG Generation 19, tournament 2: {<Color.ORANGE: 'ORANGE'>: 27, <Color.RED: 'RED'>: 32, <Color.WHITE: 'WHITE'>: 17, <Color.BLUE: 'BLUE'>: 24}
+2023-04-23 21:34:35,577 DEBUG Generation 20, tournament 2: {<Color.WHITE: 'WHITE'>: 24, <Color.ORANGE: 'ORANGE'>: 19, <Color.RED: 'RED'>: 31, <Color.BLUE: 'BLUE'>: 26}
+2023-04-23 21:34:38,051 INFO   (0) Color.RED : 53
+2023-04-23 21:34:38,052 INFO   (1) Color.WHITE : 47
+2023-04-23 21:34:40,473 INFO   (0) Color.RED : 57
+2023-04-23 21:34:40,473 INFO   (1) Color.ORANGE : 42
+2023-04-23 21:34:43,091 INFO   (0) Color.RED : 61
+2023-04-23 21:34:43,091 INFO   (1) Color.BLUE : 38
+2023-04-23 21:34:43,091 INFO   (2) None : 1
+2023-04-23 21:34:46,844 DEBUG Generation 21, tournament 2: {<Color.RED: 'RED'>: 28, <Color.BLUE: 'BLUE'>: 26, <Color.WHITE: 'WHITE'>: 25, <Color.ORANGE: 'ORANGE'>: 20}
+2023-04-23 21:34:50,515 DEBUG Generation 22, tournament 2: {<Color.RED: 'RED'>: 28, <Color.ORANGE: 'ORANGE'>: 19, <Color.WHITE: 'WHITE'>: 31, <Color.BLUE: 'BLUE'>: 21}
+2023-04-23 21:34:54,299 DEBUG Generation 23, tournament 2: {<Color.WHITE: 'WHITE'>: 27, <Color.RED: 'RED'>: 38, <Color.ORANGE: 'ORANGE'>: 17, <Color.BLUE: 'BLUE'>: 18}
+2023-04-23 21:34:58,088 DEBUG Generation 24, tournament 2: {<Color.BLUE: 'BLUE'>: 23, <Color.WHITE: 'WHITE'>: 28, <Color.RED: 'RED'>: 23, <Color.ORANGE: 'ORANGE'>: 25}
+2023-04-23 21:35:00,607 INFO   (0) Color.RED : 54
+2023-04-23 21:35:00,607 INFO   (1) Color.BLUE : 46
+2023-04-23 21:35:03,255 INFO   (0) Color.RED : 62
+2023-04-23 21:35:03,255 INFO   (1) Color.WHITE : 36
+2023-04-23 21:35:03,255 INFO   (2) None : 2
+2023-04-23 21:35:05,724 INFO   (0) Color.RED : 64
+2023-04-23 21:35:05,724 INFO   (1) Color.ORANGE : 36
+2023-04-23 21:35:09,324 DEBUG Generation 25, tournament 2: {<Color.RED: 'RED'>: 36, <Color.BLUE: 'BLUE'>: 25, <Color.ORANGE: 'ORANGE'>: 20, <Color.WHITE: 'WHITE'>: 19}
+2023-04-23 21:35:13,209 DEBUG Generation 26, tournament 2: {<Color.RED: 'RED'>: 35, <Color.ORANGE: 'ORANGE'>: 18, <Color.WHITE: 'WHITE'>: 25, <Color.BLUE: 'BLUE'>: 22}
+2023-04-23 21:35:16,887 DEBUG Generation 27, tournament 2: {<Color.ORANGE: 'ORANGE'>: 24, <Color.RED: 'RED'>: 32, <Color.BLUE: 'BLUE'>: 20, <Color.WHITE: 'WHITE'>: 24}
+2023-04-23 21:35:20,754 DEBUG Generation 28, tournament 2: {<Color.WHITE: 'WHITE'>: 20, <Color.BLUE: 'BLUE'>: 21, <Color.RED: 'RED'>: 41, <Color.ORANGE: 'ORANGE'>: 18}
+2023-04-23 21:35:24,194 DEBUG Generation 29, tournament 2: {<Color.RED: 'RED'>: 33, <Color.WHITE: 'WHITE'>: 20, <Color.BLUE: 'BLUE'>: 20, <Color.ORANGE: 'ORANGE'>: 27}
+2023-04-23 21:35:27,748 DEBUG Generation 30, tournament 2: {<Color.BLUE: 'BLUE'>: 25, <Color.ORANGE: 'ORANGE'>: 17, <Color.WHITE: 'WHITE'>: 28, <Color.RED: 'RED'>: 28}
+2023-04-23 21:35:30,323 INFO   (0) Color.RED : 59
+2023-04-23 21:35:30,323 INFO   (1) Color.BLUE : 40
+2023-04-23 21:35:30,323 INFO   (2) None : 1
+2023-04-23 21:35:32,979 INFO   (0) Color.RED : 56
+2023-04-23 21:35:32,979 INFO   (1) Color.ORANGE : 42
+2023-04-23 21:35:32,979 INFO   (2) None : 1
+2023-04-23 21:35:35,612 INFO   (0) Color.RED : 64
+2023-04-23 21:35:35,612 INFO   (1) Color.WHITE : 36
+2023-04-23 21:35:39,360 DEBUG Generation 31, tournament 2: {<Color.RED: 'RED'>: 31, <Color.ORANGE: 'ORANGE'>: 19, <Color.WHITE: 'WHITE'>: 24, <Color.BLUE: 'BLUE'>: 26}
+2023-04-23 21:35:43,140 DEBUG Generation 32, tournament 2: {<Color.BLUE: 'BLUE'>: 20, <Color.RED: 'RED'>: 38, <Color.WHITE: 'WHITE'>: 23, <Color.ORANGE: 'ORANGE'>: 19}
+2023-04-23 21:35:46,798 DEBUG Generation 33, tournament 2: {<Color.WHITE: 'WHITE'>: 25, <Color.ORANGE: 'ORANGE'>: 21, <Color.RED: 'RED'>: 32, <Color.BLUE: 'BLUE'>: 22}
+2023-04-23 21:35:50,547 DEBUG Generation 34, tournament 2: {<Color.WHITE: 'WHITE'>: 24, <Color.RED: 'RED'>: 26, <Color.BLUE: 'BLUE'>: 26, <Color.ORANGE: 'ORANGE'>: 24}
+2023-04-23 21:35:54,360 DEBUG Generation 35, tournament 2: {<Color.RED: 'RED'>: 34, <Color.ORANGE: 'ORANGE'>: 24, <Color.WHITE: 'WHITE'>: 19, <Color.BLUE: 'BLUE'>: 23}
+2023-04-23 21:35:58,246 DEBUG Generation 36, tournament 2: {<Color.ORANGE: 'ORANGE'>: 24, <Color.WHITE: 'WHITE'>: 25, <Color.BLUE: 'BLUE'>: 21, <Color.RED: 'RED'>: 30}
+2023-04-23 21:36:01,823 DEBUG Generation 37, tournament 2: {<Color.RED: 'RED'>: 32, <Color.ORANGE: 'ORANGE'>: 19, <Color.BLUE: 'BLUE'>: 31, <Color.WHITE: 'WHITE'>: 18}
+2023-04-23 21:36:05,522 DEBUG Generation 38, tournament 2: {<Color.RED: 'RED'>: 28, <Color.BLUE: 'BLUE'>: 25, <Color.ORANGE: 'ORANGE'>: 16, <Color.WHITE: 'WHITE'>: 30}
+2023-04-23 21:36:09,147 DEBUG Generation 39, tournament 2: {<Color.ORANGE: 'ORANGE'>: 21, <Color.BLUE: 'BLUE'>: 19, <Color.RED: 'RED'>: 40, <Color.WHITE: 'WHITE'>: 20}
+2023-04-23 21:36:13,110 DEBUG Generation 40, tournament 2: {<Color.RED: 'RED'>: 38, <Color.BLUE: 'BLUE'>: 20, <Color.ORANGE: 'ORANGE'>: 22, <Color.WHITE: 'WHITE'>: 20}
+2023-04-23 21:36:15,837 INFO   (0) Color.RED : 56
+2023-04-23 21:36:15,837 INFO   (1) Color.BLUE : 39
+2023-04-23 21:36:15,837 INFO   (2) None : 4
+2023-04-23 21:36:18,414 INFO   (0) Color.RED : 57
+2023-04-23 21:36:18,414 INFO   (1) Color.ORANGE : 41
+2023-04-23 21:36:18,414 INFO   (2) None : 1
+2023-04-23 21:36:20,932 INFO   (0) Color.RED : 59
+2023-04-23 21:36:20,932 INFO   (1) Color.WHITE : 40
+2023-04-23 21:36:20,932 INFO   (2) None : 1
+2023-04-23 21:36:24,716 DEBUG Generation 41, tournament 2: {<Color.RED: 'RED'>: 37, <Color.ORANGE: 'ORANGE'>: 24, <Color.WHITE: 'WHITE'>: 23, <Color.BLUE: 'BLUE'>: 16}
+2023-04-23 21:36:28,349 DEBUG Generation 42, tournament 2: {<Color.RED: 'RED'>: 37, <Color.BLUE: 'BLUE'>: 26, <Color.ORANGE: 'ORANGE'>: 19, <Color.WHITE: 'WHITE'>: 18}
+2023-04-23 21:36:31,986 DEBUG Generation 43, tournament 2: {<Color.RED: 'RED'>: 41, <Color.BLUE: 'BLUE'>: 27, <Color.ORANGE: 'ORANGE'>: 9, <Color.WHITE: 'WHITE'>: 23}
+2023-04-23 21:36:36,196 DEBUG Generation 44, tournament 2: {<Color.ORANGE: 'ORANGE'>: 25, <Color.RED: 'RED'>: 31, <Color.BLUE: 'BLUE'>: 23, <Color.WHITE: 'WHITE'>: 21}
+2023-04-23 21:36:40,469 DEBUG Generation 45, tournament 2: {<Color.ORANGE: 'ORANGE'>: 19, <Color.RED: 'RED'>: 35, <Color.BLUE: 'BLUE'>: 22, <Color.WHITE: 'WHITE'>: 24}
+2023-04-23 21:36:44,451 DEBUG Generation 46, tournament 2: {<Color.WHITE: 'WHITE'>: 16, <Color.RED: 'RED'>: 30, <Color.ORANGE: 'ORANGE'>: 21, <Color.BLUE: 'BLUE'>: 33}
+2023-04-23 21:36:48,388 DEBUG Generation 47, tournament 2: {<Color.WHITE: 'WHITE'>: 32, <Color.BLUE: 'BLUE'>: 22, <Color.RED: 'RED'>: 40, <Color.ORANGE: 'ORANGE'>: 6}
+2023-04-23 21:36:53,125 DEBUG Generation 48, tournament 2: {<Color.WHITE: 'WHITE'>: 20, <Color.BLUE: 'BLUE'>: 18, <Color.ORANGE: 'ORANGE'>: 28, <Color.RED: 'RED'>: 34}
+2023-04-23 21:36:57,736 DEBUG Generation 49, tournament 2: {<Color.RED: 'RED'>: 34, <Color.BLUE: 'BLUE'>: 24, <Color.ORANGE: 'ORANGE'>: 23, <Color.WHITE: 'WHITE'>: 19}
+2023-04-23 21:37:10,563 INFO best from last session tournament ***** Color.BLUE =>> RedBOT these weights will be placed in red bots
+2023-04-23 21:37:10,564 INFO   (0) Color.ORANGE : 33
+2023-04-23 21:37:10,564 INFO   (1) Color.BLUE : 24
+2023-04-23 21:37:10,565 INFO   (2) Color.RED : 24
+2023-04-23 21:37:10,565 INFO   (3) Color.WHITE : 18
+2023-04-23 21:37:23,739 INFO best from last session tournament ***** Color.ORANGE =>> RedBOT these weights will be placed in red bots
+2023-04-23 21:37:23,740 INFO   (0) Color.ORANGE : 36
+2023-04-23 21:37:23,740 INFO   (1) Color.WHITE : 23
+2023-04-23 21:37:23,740 INFO   (2) Color.BLUE : 22
+2023-04-23 21:37:23,740 INFO   (3) Color.RED : 17
+2023-04-23 21:37:35,223 INFO best from last session tournament ***** Color.WHITE =>> RedBOT these weights will be placed in red bots
+2023-04-23 21:37:35,225 INFO   (0) Color.ORANGE : 29
+2023-04-23 21:37:35,225 INFO   (1) Color.RED : 25
+2023-04-23 21:37:35,225 INFO   (2) Color.BLUE : 24
+2023-04-23 21:37:35,225 INFO   (3) Color.WHITE : 21
+2023-04-23 21:37:35,225 INFO Best player's weights: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 1235, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 3890, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 4041, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 437}, score: 40
+2023-04-23 21:37:39,453 INFO   (0) Color.ORANGE : 35
+2023-04-23 21:37:39,453 INFO   (1) Color.RED : 30
+2023-04-23 21:37:39,453 INFO   (2) Color.WHITE : 22
+2023-04-23 21:37:39,453 INFO   (3) Color.BLUE : 13
+2023-04-23 21:37:39,453 INFO Tournament 2 results: {<Color.BLUE: 'BLUE'>: 13, <Color.ORANGE: 'ORANGE'>: 35, <Color.WHITE: 'WHITE'>: 22, <Color.RED: 'RED'>: 30}
+2023-04-23 21:37:44,019 DEBUG Generation 0, tournament 3: {<Color.RED: 'RED'>: 37, <Color.BLUE: 'BLUE'>: 21, <Color.ORANGE: 'ORANGE'>: 23, <Color.WHITE: 'WHITE'>: 19}
+2023-04-23 21:37:44,020 DEBUG New Best Player: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 8893, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 3485, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 3196, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 3316}, score: 21
+2023-04-23 21:37:44,020 DEBUG New Best Player: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 5657, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 4799, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 3911, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 3140}, score: 23
+2023-04-23 21:37:47,043 INFO   (0) Color.RED : 57
+2023-04-23 21:37:47,044 INFO   (1) Color.BLUE : 41
+2023-04-23 21:37:47,044 INFO   (2) None : 1
+2023-04-23 21:37:49,931 INFO   (0) Color.RED : 65
+2023-04-23 21:37:49,931 INFO   (1) Color.ORANGE : 35
+2023-04-23 21:37:53,079 INFO   (0) Color.RED : 55
+2023-04-23 21:37:53,080 INFO   (1) Color.WHITE : 45
+2023-04-23 21:37:57,072 DEBUG Generation 1, tournament 3: {<Color.WHITE: 'WHITE'>: 19, <Color.ORANGE: 'ORANGE'>: 31, <Color.RED: 'RED'>: 32, <Color.BLUE: 'BLUE'>: 18}
+2023-04-23 21:37:57,072 DEBUG New Best Player: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 5851, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 4799, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 3911, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 3140}, score: 31
+2023-04-23 21:38:01,169 DEBUG Generation 2, tournament 3: {<Color.ORANGE: 'ORANGE'>: 25, <Color.RED: 'RED'>: 26, <Color.BLUE: 'BLUE'>: 30, <Color.WHITE: 'WHITE'>: 19}
+2023-04-23 21:38:04,983 DEBUG Generation 3, tournament 3: {<Color.ORANGE: 'ORANGE'>: 28, <Color.RED: 'RED'>: 34, <Color.WHITE: 'WHITE'>: 17, <Color.BLUE: 'BLUE'>: 20}
+2023-04-23 21:38:08,969 DEBUG Generation 4, tournament 3: {<Color.ORANGE: 'ORANGE'>: 19, <Color.RED: 'RED'>: 26, <Color.WHITE: 'WHITE'>: 24, <Color.BLUE: 'BLUE'>: 31}
+2023-04-23 21:38:12,929 DEBUG Generation 5, tournament 3: {<Color.RED: 'RED'>: 34, <Color.BLUE: 'BLUE'>: 21, <Color.WHITE: 'WHITE'>: 20, <Color.ORANGE: 'ORANGE'>: 25}
+2023-04-23 21:38:17,379 DEBUG Generation 6, tournament 3: {<Color.WHITE: 'WHITE'>: 28, <Color.RED: 'RED'>: 26, <Color.ORANGE: 'ORANGE'>: 16, <Color.BLUE: 'BLUE'>: 30}
+2023-04-23 21:38:21,622 DEBUG Generation 7, tournament 3: {<Color.BLUE: 'BLUE'>: 23, <Color.RED: 'RED'>: 27, <Color.WHITE: 'WHITE'>: 24, <Color.ORANGE: 'ORANGE'>: 26}
+2023-04-23 21:38:26,019 DEBUG Generation 8, tournament 3: {<Color.BLUE: 'BLUE'>: 22, <Color.WHITE: 'WHITE'>: 28, <Color.RED: 'RED'>: 31, <Color.ORANGE: 'ORANGE'>: 19}
+2023-04-23 21:38:29,692 DEBUG Generation 9, tournament 3: {<Color.BLUE: 'BLUE'>: 22, <Color.ORANGE: 'ORANGE'>: 25, <Color.RED: 'RED'>: 33, <Color.WHITE: 'WHITE'>: 20}
+2023-04-23 21:38:33,453 DEBUG Generation 10, tournament 3: {<Color.RED: 'RED'>: 33, <Color.WHITE: 'WHITE'>: 27, <Color.ORANGE: 'ORANGE'>: 22, <Color.BLUE: 'BLUE'>: 18}
+2023-04-23 21:38:36,146 INFO   (0) Color.RED : 53
+2023-04-23 21:38:36,146 INFO   (1) Color.WHITE : 46
+2023-04-23 21:38:36,146 INFO   (2) None : 1
+2023-04-23 21:38:39,012 INFO   (0) Color.RED : 59
+2023-04-23 21:38:39,012 INFO   (1) Color.ORANGE : 41
+2023-04-23 21:38:41,665 INFO   (0) Color.RED : 57
+2023-04-23 21:38:41,665 INFO   (1) Color.BLUE : 42
+2023-04-23 21:38:45,190 DEBUG Generation 11, tournament 3: {<Color.ORANGE: 'ORANGE'>: 25, <Color.RED: 'RED'>: 28, <Color.WHITE: 'WHITE'>: 23, <Color.BLUE: 'BLUE'>: 23}
+2023-04-23 21:38:48,977 DEBUG Generation 12, tournament 3: {<Color.BLUE: 'BLUE'>: 21, <Color.ORANGE: 'ORANGE'>: 20, <Color.RED: 'RED'>: 34, <Color.WHITE: 'WHITE'>: 25}
+2023-04-23 21:38:52,691 DEBUG Generation 13, tournament 3: {<Color.ORANGE: 'ORANGE'>: 23, <Color.BLUE: 'BLUE'>: 23, <Color.WHITE: 'WHITE'>: 28, <Color.RED: 'RED'>: 26}
+2023-04-23 21:38:56,396 DEBUG Generation 14, tournament 3: {<Color.WHITE: 'WHITE'>: 24, <Color.ORANGE: 'ORANGE'>: 23, <Color.BLUE: 'BLUE'>: 21, <Color.RED: 'RED'>: 32}
+2023-04-23 21:39:00,172 DEBUG Generation 15, tournament 3: {<Color.WHITE: 'WHITE'>: 24, <Color.BLUE: 'BLUE'>: 28, <Color.RED: 'RED'>: 28, <Color.ORANGE: 'ORANGE'>: 18}
+2023-04-23 21:39:03,765 DEBUG Generation 16, tournament 3: {<Color.WHITE: 'WHITE'>: 16, <Color.ORANGE: 'ORANGE'>: 23, <Color.BLUE: 'BLUE'>: 31, <Color.RED: 'RED'>: 30}
+2023-04-23 21:39:07,414 DEBUG Generation 17, tournament 3: {<Color.WHITE: 'WHITE'>: 20, <Color.RED: 'RED'>: 32, <Color.ORANGE: 'ORANGE'>: 30, <Color.BLUE: 'BLUE'>: 18}
+2023-04-23 21:39:11,027 DEBUG Generation 18, tournament 3: {<Color.ORANGE: 'ORANGE'>: 18, <Color.RED: 'RED'>: 31, <Color.BLUE: 'BLUE'>: 22, <Color.WHITE: 'WHITE'>: 28}
+2023-04-23 21:39:14,903 DEBUG Generation 19, tournament 3: {<Color.BLUE: 'BLUE'>: 27, <Color.ORANGE: 'ORANGE'>: 27, <Color.RED: 'RED'>: 31, <Color.WHITE: 'WHITE'>: 15}
+2023-04-23 21:39:18,674 DEBUG Generation 20, tournament 3: {<Color.BLUE: 'BLUE'>: 25, <Color.RED: 'RED'>: 36, <Color.ORANGE: 'ORANGE'>: 16, <Color.WHITE: 'WHITE'>: 23}
+2023-04-23 21:39:21,598 INFO   (0) Color.RED : 50
+2023-04-23 21:39:21,599 INFO   (1) Color.BLUE : 50
+2023-04-23 21:39:24,238 INFO   (0) Color.RED : 61
+2023-04-23 21:39:24,238 INFO   (1) Color.ORANGE : 38
+2023-04-23 21:39:24,238 INFO   (2) None : 1
+2023-04-23 21:39:26,680 INFO   (0) Color.RED : 56
+2023-04-23 21:39:26,680 INFO   (1) Color.WHITE : 43
+2023-04-23 21:39:30,218 DEBUG Generation 21, tournament 3: {<Color.RED: 'RED'>: 31, <Color.BLUE: 'BLUE'>: 25, <Color.WHITE: 'WHITE'>: 20, <Color.ORANGE: 'ORANGE'>: 24}
+2023-04-23 21:39:33,893 DEBUG Generation 22, tournament 3: {<Color.RED: 'RED'>: 22, <Color.WHITE: 'WHITE'>: 30, <Color.BLUE: 'BLUE'>: 23, <Color.ORANGE: 'ORANGE'>: 25}
+2023-04-23 21:39:36,457 INFO   (0) Color.RED : 60
+2023-04-23 21:39:36,457 INFO   (1) Color.WHITE : 39
+2023-04-23 21:39:36,457 INFO   (2) None : 1
+2023-04-23 21:39:39,022 INFO   (0) Color.RED : 59
+2023-04-23 21:39:39,022 INFO   (1) Color.BLUE : 41
+2023-04-23 21:39:41,632 INFO   (0) Color.RED : 54
+2023-04-23 21:39:41,632 INFO   (1) Color.ORANGE : 46
+2023-04-23 21:39:45,301 DEBUG Generation 23, tournament 3: {<Color.RED: 'RED'>: 40, <Color.WHITE: 'WHITE'>: 20, <Color.BLUE: 'BLUE'>: 20, <Color.ORANGE: 'ORANGE'>: 20}
+2023-04-23 21:39:49,194 DEBUG Generation 24, tournament 3: {<Color.RED: 'RED'>: 27, <Color.ORANGE: 'ORANGE'>: 25, <Color.BLUE: 'BLUE'>: 25, <Color.WHITE: 'WHITE'>: 23}
+2023-04-23 21:39:53,134 DEBUG Generation 25, tournament 3: {<Color.RED: 'RED'>: 33, <Color.BLUE: 'BLUE'>: 25, <Color.ORANGE: 'ORANGE'>: 22, <Color.WHITE: 'WHITE'>: 20}
+2023-04-23 21:39:56,774 DEBUG Generation 26, tournament 3: {<Color.ORANGE: 'ORANGE'>: 24, <Color.RED: 'RED'>: 33, <Color.WHITE: 'WHITE'>: 15, <Color.BLUE: 'BLUE'>: 28}
+2023-04-23 21:40:00,329 DEBUG Generation 27, tournament 3: {<Color.WHITE: 'WHITE'>: 23, <Color.RED: 'RED'>: 35, <Color.ORANGE: 'ORANGE'>: 24, <Color.BLUE: 'BLUE'>: 18}
+2023-04-23 21:40:03,747 DEBUG Generation 28, tournament 3: {<Color.BLUE: 'BLUE'>: 21, <Color.WHITE: 'WHITE'>: 22, <Color.ORANGE: 'ORANGE'>: 30, <Color.RED: 'RED'>: 27}
+2023-04-23 21:40:07,288 DEBUG Generation 29, tournament 3: {<Color.ORANGE: 'ORANGE'>: 25, <Color.RED: 'RED'>: 20, <Color.WHITE: 'WHITE'>: 30, <Color.BLUE: 'BLUE'>: 25}
+2023-04-23 21:40:09,629 INFO   (0) Color.RED : 56
+2023-04-23 21:40:09,629 INFO   (1) Color.ORANGE : 44
+2023-04-23 21:40:12,451 INFO   (0) Color.WHITE : 50
+2023-04-23 21:40:12,451 INFO   (1) Color.RED : 49
+2023-04-23 21:40:12,451 INFO   (2) None : 1
+2023-04-23 21:40:15,071 INFO   (0) Color.BLUE : 52
+2023-04-23 21:40:15,072 INFO   (1) Color.RED : 47
+2023-04-23 21:40:15,072 INFO   (2) None : 1
+2023-04-23 21:40:18,443 DEBUG Generation 30, tournament 3: {<Color.BLUE: 'BLUE'>: 23, <Color.WHITE: 'WHITE'>: 28, <Color.RED: 'RED'>: 25, <Color.ORANGE: 'ORANGE'>: 23}
+2023-04-23 21:40:20,898 INFO   (0) Color.BLUE : 51
+2023-04-23 21:40:20,898 INFO   (1) Color.RED : 48
+2023-04-23 21:40:20,898 INFO   (2) None : 1
+2023-04-23 21:40:23,384 INFO   (0) Color.RED : 59
+2023-04-23 21:40:23,384 INFO   (1) Color.WHITE : 41
+2023-04-23 21:40:26,048 INFO   (0) Color.RED : 57
+2023-04-23 21:40:26,048 INFO   (1) Color.ORANGE : 42
+2023-04-23 21:40:29,684 DEBUG Generation 31, tournament 3: {<Color.BLUE: 'BLUE'>: 17, <Color.RED: 'RED'>: 36, <Color.WHITE: 'WHITE'>: 27, <Color.ORANGE: 'ORANGE'>: 20}
+2023-04-23 21:40:33,042 DEBUG Generation 32, tournament 3: {<Color.RED: 'RED'>: 26, <Color.WHITE: 'WHITE'>: 32, <Color.BLUE: 'BLUE'>: 27, <Color.ORANGE: 'ORANGE'>: 15}
+2023-04-23 21:40:33,042 DEBUG New Best Player: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 6037, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 3590, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 6681, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 919}, score: 32
+2023-04-23 21:40:36,481 DEBUG Generation 33, tournament 3: {<Color.RED: 'RED'>: 31, <Color.BLUE: 'BLUE'>: 24, <Color.WHITE: 'WHITE'>: 24, <Color.ORANGE: 'ORANGE'>: 21}
+2023-04-23 21:40:40,065 DEBUG Generation 34, tournament 3: {<Color.WHITE: 'WHITE'>: 26, <Color.RED: 'RED'>: 34, <Color.ORANGE: 'ORANGE'>: 17, <Color.BLUE: 'BLUE'>: 23}
+2023-04-23 21:40:43,736 DEBUG Generation 35, tournament 3: {<Color.BLUE: 'BLUE'>: 25, <Color.WHITE: 'WHITE'>: 21, <Color.ORANGE: 'ORANGE'>: 21, <Color.RED: 'RED'>: 33}
+2023-04-23 21:40:47,208 DEBUG Generation 36, tournament 3: {<Color.BLUE: 'BLUE'>: 19, <Color.WHITE: 'WHITE'>: 23, <Color.ORANGE: 'ORANGE'>: 23, <Color.RED: 'RED'>: 35}
+2023-04-23 21:40:50,823 DEBUG Generation 37, tournament 3: {<Color.WHITE: 'WHITE'>: 20, <Color.RED: 'RED'>: 30, <Color.ORANGE: 'ORANGE'>: 22, <Color.BLUE: 'BLUE'>: 28}
+2023-04-23 21:40:54,636 DEBUG Generation 38, tournament 3: {<Color.BLUE: 'BLUE'>: 28, <Color.RED: 'RED'>: 28, <Color.ORANGE: 'ORANGE'>: 22, <Color.WHITE: 'WHITE'>: 22}
+2023-04-23 21:40:57,977 DEBUG Generation 39, tournament 3: {<Color.RED: 'RED'>: 31, <Color.BLUE: 'BLUE'>: 23, <Color.WHITE: 'WHITE'>: 32, <Color.ORANGE: 'ORANGE'>: 14}
+2023-04-23 21:41:01,259 DEBUG Generation 40, tournament 3: {<Color.WHITE: 'WHITE'>: 30, <Color.BLUE: 'BLUE'>: 24, <Color.ORANGE: 'ORANGE'>: 18, <Color.RED: 'RED'>: 28}
+2023-04-23 21:41:03,771 INFO   (0) Color.WHITE : 53
+2023-04-23 21:41:03,771 INFO   (1) Color.RED : 47
+2023-04-23 21:41:06,090 INFO   (0) Color.RED : 60
+2023-04-23 21:41:06,090 INFO   (1) Color.BLUE : 40
+2023-04-23 21:41:08,660 INFO   (0) Color.RED : 59
+2023-04-23 21:41:08,661 INFO   (1) Color.ORANGE : 41
+2023-04-23 21:41:12,258 DEBUG Generation 41, tournament 3: {<Color.WHITE: 'WHITE'>: 30, <Color.BLUE: 'BLUE'>: 25, <Color.RED: 'RED'>: 20, <Color.ORANGE: 'ORANGE'>: 25}
+2023-04-23 21:41:14,619 INFO   (0) Color.RED : 52
+2023-04-23 21:41:14,619 INFO   (1) Color.WHITE : 48
+2023-04-23 21:41:17,100 INFO   (0) Color.RED : 56
+2023-04-23 21:41:17,100 INFO   (1) Color.BLUE : 43
+2023-04-23 21:41:17,100 INFO   (2) None : 1
+2023-04-23 21:41:19,478 INFO   (0) Color.RED : 50
+2023-04-23 21:41:19,478 INFO   (1) Color.ORANGE : 50
+2023-04-23 21:41:22,954 DEBUG Generation 42, tournament 3: {<Color.RED: 'RED'>: 44, <Color.WHITE: 'WHITE'>: 36, <Color.ORANGE: 'ORANGE'>: 9, <Color.BLUE: 'BLUE'>: 11}
+2023-04-23 21:41:22,955 DEBUG New Best Player: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 4627, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 4013, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 5905, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 506}, score: 36
+2023-04-23 21:41:26,163 DEBUG Generation 43, tournament 3: {<Color.BLUE: 'BLUE'>: 27, <Color.RED: 'RED'>: 28, <Color.ORANGE: 'ORANGE'>: 18, <Color.WHITE: 'WHITE'>: 27}
+2023-04-23 21:41:29,626 DEBUG Generation 44, tournament 3: {<Color.ORANGE: 'ORANGE'>: 14, <Color.RED: 'RED'>: 34, <Color.BLUE: 'BLUE'>: 42, <Color.WHITE: 'WHITE'>: 10}
+2023-04-23 21:41:29,626 DEBUG New Best Player: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 4627, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 4013, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 5958, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 506}, score: 42
+2023-04-23 21:41:33,056 DEBUG Generation 45, tournament 3: {<Color.RED: 'RED'>: 38, <Color.BLUE: 'BLUE'>: 21, <Color.WHITE: 'WHITE'>: 34, <Color.ORANGE: 'ORANGE'>: 7}
+2023-04-23 21:41:36,402 DEBUG Generation 46, tournament 3: {<Color.ORANGE: 'ORANGE'>: 22, <Color.BLUE: 'BLUE'>: 24, <Color.RED: 'RED'>: 32, <Color.WHITE: 'WHITE'>: 22}
+2023-04-23 21:41:39,810 DEBUG Generation 47, tournament 3: {<Color.WHITE: 'WHITE'>: 18, <Color.RED: 'RED'>: 41, <Color.BLUE: 'BLUE'>: 16, <Color.ORANGE: 'ORANGE'>: 25}
+2023-04-23 21:41:43,407 DEBUG Generation 48, tournament 3: {<Color.ORANGE: 'ORANGE'>: 33, <Color.RED: 'RED'>: 27, <Color.BLUE: 'BLUE'>: 17, <Color.WHITE: 'WHITE'>: 23}
+2023-04-23 21:41:46,872 DEBUG Generation 49, tournament 3: {<Color.RED: 'RED'>: 36, <Color.BLUE: 'BLUE'>: 19, <Color.ORANGE: 'ORANGE'>: 22, <Color.WHITE: 'WHITE'>: 23}
+2023-04-23 21:41:58,198 INFO best from last session tournament ***** Color.BLUE =>> RedBOT these weights will be placed in red bots
+2023-04-23 21:41:58,199 INFO   (0) Color.RED : 30
+2023-04-23 21:41:58,199 INFO   (1) Color.ORANGE : 27
+2023-04-23 21:41:58,199 INFO   (2) Color.WHITE : 21
+2023-04-23 21:41:58,199 INFO   (3) Color.BLUE : 20
+2023-04-23 21:42:09,388 INFO best from last session tournament ***** Color.ORANGE =>> RedBOT these weights will be placed in red bots
+2023-04-23 21:42:09,389 INFO   (0) Color.BLUE : 26
+2023-04-23 21:42:09,389 INFO   (1) Color.RED : 26
+2023-04-23 21:42:09,389 INFO   (2) Color.WHITE : 24
+2023-04-23 21:42:09,389 INFO   (3) Color.ORANGE : 22
+2023-04-23 21:42:21,240 INFO best from last session tournament ***** Color.WHITE =>> RedBOT these weights will be placed in red bots
+2023-04-23 21:42:21,240 INFO   (0) Color.RED : 31
+2023-04-23 21:42:21,240 INFO   (1) Color.BLUE : 28
+2023-04-23 21:42:21,240 INFO   (2) Color.WHITE : 21
+2023-04-23 21:42:21,240 INFO   (3) Color.ORANGE : 19
+2023-04-23 21:42:21,240 INFO Best player's weights: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 4627, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 4013, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 5958, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 506}, score: 42
+2023-04-23 21:42:26,324 INFO   (0) Color.RED : 28
+2023-04-23 21:42:26,324 INFO   (1) Color.WHITE : 27
+2023-04-23 21:42:26,324 INFO   (2) Color.ORANGE : 26
+2023-04-23 21:42:26,324 INFO   (3) Color.BLUE : 19
+2023-04-23 21:42:26,324 INFO Tournament 3 results: {<Color.BLUE: 'BLUE'>: 19, <Color.ORANGE: 'ORANGE'>: 26, <Color.WHITE: 'WHITE'>: 27, <Color.RED: 'RED'>: 28}
+2023-04-23 21:42:30,656 DEBUG Generation 0, tournament 4: {<Color.RED: 'RED'>: 33, <Color.BLUE: 'BLUE'>: 31, <Color.ORANGE: 'ORANGE'>: 20, <Color.WHITE: 'WHITE'>: 16}
+2023-04-23 21:42:30,657 DEBUG New Best Player: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 9759, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 3036, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 3130, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 342}, score: 31
+2023-04-23 21:42:33,257 INFO   (0) Color.RED : 60
+2023-04-23 21:42:33,257 INFO   (1) Color.BLUE : 40
+2023-04-23 21:42:36,720 INFO   (0) Color.RED : 61
+2023-04-23 21:42:36,720 INFO   (1) Color.ORANGE : 38
+2023-04-23 21:42:36,720 INFO   (2) None : 1
+2023-04-23 21:42:40,626 INFO   (0) Color.RED : 55
+2023-04-23 21:42:40,626 INFO   (1) Color.WHITE : 43
+2023-04-23 21:42:40,626 INFO   (2) None : 2
+2023-04-23 21:42:44,372 DEBUG Generation 1, tournament 4: {<Color.RED: 'RED'>: 33, <Color.ORANGE: 'ORANGE'>: 17, <Color.BLUE: 'BLUE'>: 27, <Color.WHITE: 'WHITE'>: 23}
+2023-04-23 21:42:47,991 DEBUG Generation 2, tournament 4: {<Color.BLUE: 'BLUE'>: 17, <Color.WHITE: 'WHITE'>: 20, <Color.ORANGE: 'ORANGE'>: 32, <Color.RED: 'RED'>: 31}
+2023-04-23 21:42:47,991 DEBUG New Best Player: {<ActionType.BUILD_CITY: 'BUILD_CITY'>: 9759, <ActionType.BUILD_SETTLEMENT: 'BUILD_SETTLEMENT'>: 3230, <ActionType.BUY_DEVELOPMENT_CARD: 'BUY_DEVELOPMENT_CARD'>: 3971, <ActionType.BUILD_ROAD: 'BUILD_ROAD'>: 342}, score: 32

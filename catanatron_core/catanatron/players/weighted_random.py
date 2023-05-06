@@ -25,6 +25,7 @@ class WeightedRandomPlayer(Player):
 
         index = random.randrange(0, len(bloated_actions))
         
+        
         if self.analysis:
             self.analysis(bloated_actions[index], self.color)
         return bloated_actions[index]
